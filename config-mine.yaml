@@ -1,0 +1,6 @@
+languageCode: "en-us"
+
+title: "SIGCSE 2017"
+baseurl: "http://replace-this-with-your-hugo-site.com/"
+
+theme: "hyde-y"
