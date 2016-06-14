@@ -8,7 +8,8 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-        <a class="navbar-brand" href="{{site.baseurl}}">SIGCSE {{site.data.sigcse.year}}</a>
+        <!-- This page links back to {{site.baseurl}} -->
+        <a class="navbar-brand" href="{{'/' | prepend: site.baseurl}}">SIGCSE {{site.data.sigcse.year}}</a>
         <p class="navbar-text">
           {{site.data.sigcse.date.month}}
           {{site.data.sigcse.date.start}} - {{site.data.sigcse.date.end}},
