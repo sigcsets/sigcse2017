@@ -1,5 +1,8 @@
-/* style.css */
+/* Make the font bigger. */
 * {
    font-size: 16px;
    line-height: 2;
 }
+
+/* For footer. */
+body { padding-bottom: 70px; }
