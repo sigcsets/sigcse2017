@@ -5,14 +5,35 @@
 
   <body>
     {% include nav/navbar.html %}
-
-  <div class = "container">
-    <div class = "row">
-      <div class = "col-sm-10 col-sm-offset-1">
-      {{ content }}
+    <div class = "container">
+      <div class = "row">
+        <div class = "col-sm-10 col-sm-offset-1">
+        {{ content }}
+      </div>
     </div>
-  </div>
-
+    <footer class="footer navbar-fixed-bottom">
+      <div class="container">
+        <!-- FAR RIGHT -->
+        <ul class="nav navbar-nav navbar-right">
+          <li>
+            <a href="http://www.sigcse.org/" target="_blank">
+              <img
+              src = "{{ '/images/acm/sigcse-logo-64.png' | prepend: site.baseurl }}"
+              alt = "ACM SIGCSE Logo"
+            />
+            SIGCSE</a>
+          </li>
+          <li>
+            <a href="https://www.acm.org/" target="_blank">
+              <img
+              src = "{{ '/images/acm/acm-logo-64.png' | prepend: site.baseurl }}"
+              alt = "ACM Logo"
+              />
+            ACM</a>
+          </li>
+        </ul>
+      </div>
+    </footer>
   </body>
 
 </html>
