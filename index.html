@@ -4,20 +4,40 @@ layout: default
 
 <div class = "row" style = "margin-bottom: 20px;">
   <div class = "col-sm-6">
+
     <h1>Inspire, Innovate, Improve!</h1>
     <ul>
+      <li> <strong>Jul 20th</strong>: Reminder of <a href="{{ '/info/cfp.html' | prepend: site.baseurl }}">CFP</a> and due dates posted.</li>
       <li> <strong>Jun 14th</strong>: <a href="{{ '/info/cfp.html' | prepend: site.baseurl }}">
         Call for participation
       </a> is posted. </li>
     </ul>
   </div>
   <div class = "col-sm-6">
+    <div class = "row">
       <img  class = "img-responsive"
             src = "images/venue/seattle-mountain-tiffany98101-500.png"
             alt = "Seattle with a mountain in the background.
                    The mountain has snow on it.
                    A building, which might be a UFO, is in the foreground.
                    Picture CC-BY tiffany98101."/>
+    </div>
+    
+    <div class = "row">
+      <h5> Due Dates </h5>
+    </div>
+    {% for dead in site.data.sigcse.deadlines %}
+    <div class = "row">
+      <div class = "col-sm-6" style = "font-weight: bold;">
+        {{dead.date}}
+      </div>
+      <div class = "col-sm-6">
+        {% for type in dead.items %}
+          {{type}}{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
   </div>
 
 </div>
