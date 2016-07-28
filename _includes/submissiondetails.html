@@ -1,0 +1,140 @@
+{% assign plural = include.plural %}
+{% for submission in site.data.cfp.master %}
+  {% for type in submission.types %}
+    {% if type.plural == plural %}
+      {% assign subtrack = submission.track %}
+      {% if subtrack == "track1" %}
+        {% assign subdate = site.data.cfp.track1.date %}
+      {% elsif subtrack == "track2" %}
+        {% assign subdate = site.data.cfp.track2.date %}
+      {% else %}
+        {% assign subdate = "Oops." %}        
+      {% endif %}  
+      {% assign subtime = submission.time %}
+      {% assign subnotification = submission.notification %}
+      {% assign subcameraready = submission.cameraready %}
+      {% assign subtimelink = submission.link %}
+      {% assign specialsubmission = site.data.cfp.details[plural].specialsubmission %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<!-- DEBUGGING >
+{{include.plural}}
+
+track: {{subtrack}}
+
+date: {{subdate}}
+
+time: {{subtime}}
+
+{{subnotification}}
+
+{{subcameraready}}
+
+{{subtimelink}}
+
+{{specialsubmission}}
+
+-->
+
+<div class="table-responsive" style="margin-top: 20px;">
+  <table class="table">
+      <tbody>
+        <tr>
+          <td><b>Date Due </b></td>
+          <td>{{subdate}}</td>
+        </tr>
+        <tr>
+          <td><b>Time Due </b></td>
+          <td> <a href="{{subtimelink}}">{{subtime}}</a> </td>
+        </tr>
+        <tr>
+          <td><b>Submission Limits </b></td>
+          <td> {{site.data.cfp.details[plural].limits}}
+          {% if site.data.cfp.details[plural].abstract %}
+            ({{site.data.cfp.details[plural].connector}} abstract of {{site.data.cfp.details[plural].abstract}})
+          {% endif %}
+          </td>
+        </tr>
+        <tr>
+          <td><b>Duration </b></td>
+          <td> {{site.data.cfp.details[plural].length}}</td>
+        </tr>
+
+        {% if site.data.cfp.submissionopen %}
+        <tr>
+          <td><b>Submission Link </b></td>
+          <td>
+            {% if specialsubmission %}
+            See below
+            {% else %}
+            {% if subtrack == "track1" %}
+              {% capture tracklink %}
+              <a href="{{site.data.cfp.track1url}}">{{site.data.main.upper}} {{site.data.main.year}} OpenConf </a>
+              {% endcapture %}
+              {% assign trackopen = site.data.cfp.track1open %}
+            {% else if subtrack == "track2" %}
+              {% capture tracklink %}
+              <a href="{{site.data.cfp.track2url}}">{{site.data.main.upper}} {{site.data.main.year}} OpenConf </a>
+              {% endcapture %}
+              {% assign trackopen = site.data.cfp.track2open %}
+            {% else %}
+              {% capture tracklink %}
+              NA
+              {% endcapture %}
+              {% assign trackopen = true %}
+            {% endif %}
+
+            {% if trackopen %}
+              {{tracklink}}
+            {% else %}
+              <em>...</em>
+            {% endif %}
+
+            {% endif %}
+            </td>
+        </tr>
+        {% endif %}
+
+        <tr>
+          <td><b>Notification to Authors </b></td>
+          <td> {{subnotification}}</td>
+        </tr>
+
+        <tr>
+          <td><b>Camera-Ready Copy </b></td>
+          <td> {{subcameraready}}</td>
+        </tr>
+        
+        <tr>
+          <td><b>Camera-Ready Instructions</b></td>
+          <td><a href="http://www.sheridanprinting.com/typedept/sigcse2016.htm">@ Sheridan Publishing</a></td>
+        </tr> 
+
+        {% comment %}
+        <!--- FIXME: Why did I do this this way? It is probably to avoid
+        some kind of duplication between two YAML files. However, it makes things
+        a bit more complex. I am going to just do the render up above.
+
+        This may have been because things evolved organically during the first build of the site.
+      -->
+        {% for submission in site.data.reviewers.finalization %}
+          {% assign generateRow = false %}
+          {% for sub in submission.types %}
+            {% if plural == sub.plural %}
+              {% assign generateRow = true %}
+            {% endif %}
+          {% endfor %}
+          {% if generateRow %}
+            <tr>
+              <td> <b>{{submission.event}}</b> </td>
+              <td> {{submission.date}} </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+        {% endcomment %}
+
+      </tbody>
+    </table>
+</div>
