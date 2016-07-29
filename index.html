@@ -1,19 +1,20 @@
 ---
 layout: default
 ---
-
-<div class = "row" style = "margin-bottom: 20px;">
-  <div class = "col-sm-6">
-
-    <h1>Inspire, Innovate, Improve!</h1>
-    <ul>
-      <li> <strong>Jul 20th</strong>: Reminder of <a href="{{ '/info/cfp.html' | prepend: site.baseurl }}">CFP</a> and due dates posted.</li>
-      <li> <strong>Jun 14th</strong>: <a href="{{ '/info/cfp.html' | prepend: site.baseurl }}">
-        Call for participation
-      </a> is posted. </li>
-    </ul>
+<div class = "row" style = "padding-top: 20px;">
+  <div class = "col-sm-12">
   </div>
+</div>
+<div class = "row" style = "margin-bottom: 20px;">
+  
   <div class = "col-sm-6">
+    <h3>Inspire, Innovate, Improve!</h3>
+    
+    {% include front-news.html %}
+    
+  </div>
+  
+  <div class = "col-sm-5 col-sm-offset-1">
     <div class = "row">
       <img  class = "img-responsive"
             src = "images/venue/seattle-mountain-tiffany98101-500.png"
@@ -24,7 +25,7 @@ layout: default
     </div>
     
     <div class = "row">
-      <h5> Due Dates </h5>
+      <h5> Important Dates </h5>
     </div>
     {% for dead in site.data.sigcse.deadlines %}
     <div class = "row">

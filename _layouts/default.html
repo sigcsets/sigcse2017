@@ -4,15 +4,18 @@
   {% include head.html %}
 
   <body>
+    
+    {% comment %}
     {% include nav/navbar.html %}
+    {% endcomment %}
     
     <div class="wrapper">
       <div class="row">
-        <div class="col-xs-2 left">
+        <div class="col-md-3">
           {% include nav/leftnav.html %}
-        </div> <!-- /col-md-2 navigation -->
+        </div>
         
-        <div class="col-xs-8 col-md-10 content">	
+        <div class="col-md-8" >	
           {% if page.showTitle == true %}
             <h1>{{page.title}}</h1>
           {% endif %}

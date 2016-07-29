@@ -1,11 +1,30 @@
-<div class="navigation">
-  <ul class="sidebar-nav">
-     <li> <a href="{{ '/authors/' | prepend: site.baseurl }}">Call for Participation</a> </li>
-     <li> <a href="#">Program</a> </li>
-     <li> <a href="#">Registration</a> </li>
-     <li> <a href="#">Venue</a> </li>
-     <li> <a href="#">Conference Committees</a> </li>
-     <hr>
-     <li> <a href="{{ '/policies.html' | prepend: site.baseurl }}">Policies</a> </li>
-   </ul>
-</div>	
+
+  <div style = "">
+    <div class = "row">
+      <a href="/">
+        <img 
+          style = " float: left;"
+          src = "{{ '/images/sigcse2017-logo-300x200.png' | prepend: size.baseurl }}" 
+          width = "300" 
+          height = "200" 
+          alt = "The Amazing SIGCSE 2017 Logo, in blueish and greenish.">
+        </a>
+      </div>
+      <div class = "row">
+      <div style = "padding-left: 15px;">
+        <ul >
+           <li> <a href="{{ '/info/cfp.html' | prepend: site.baseurl }}">Call for Participation</a> 
+           <ul>
+             <li><a href = "{{'/authors/' | prepend: site.baseurl}}">Submission Guidelines</a></li>
+           </ul>
+           </li>
+           <li> Program </li>
+           <li> Registration</li>
+           <li> Venue </li>
+           <li> Conference Committees </li>
+           <hr>
+           <li> <a href="{{ '/policies.html' | prepend: site.baseurl }}">Policies</a> </li>
+         </ul>
+       </div>
+    </div>
+  </div>	
