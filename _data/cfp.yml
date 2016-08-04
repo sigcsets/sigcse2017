@@ -1,9 +1,9 @@
-submissionopen: false
-submissionurl: "https://www.openconf.org/sigcse2017/"
+submissionopen: true
+submissionurl: "https://easychair.org/conferences/?conf=sigcse2017"
 track1open: true
-track1url: https://www.openconf.org/sigcse2017/track1/openconf.php
+track1url: https://easychair.org/conferences/?conf=sigcse2017
 track2open: true
-track2url: https://www.openconf.org/sigcse2017/track2/openconf.php
+track2url: https://easychair.org/conferences/?conf=sigcse2017
 
 # Friday, August 26, 2016
 track1:
@@ -17,7 +17,7 @@ track3:
   timestamp: "2016-09-26T00:23:59"
   date: "Monday, September 26, 2016"
 # Possibly pre-symposium...
-  
+
 presymposiumdates: "Wednesday, March 2nd, 2016"
 presymposiumformurl: "docs/sigcse-pre-symposium-events.docx"
 
@@ -26,7 +26,7 @@ master:
     notification: "Monday, October 12th, 2015"
     updates:
     cameraready: "Sunday, December 6th (was November 30th)"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2016+Paper+Submission+Deadline&iso=20150828T235959&p1=1033"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20161021T2359&p1=1033"
     track: track1
     types:
       - plural: Papers
@@ -37,7 +37,7 @@ master:
     notification: "Monday, October 12th, 2015"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2016+Panel%2C+Workshop%2C+and+Special+Session+Submission+Deadline&iso=20150828T235959&p1=1033"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20161021T2359&p1=1033"
     track: track1
     types:
       - plural: Panels
@@ -54,7 +54,7 @@ master:
     notification: "Monday, November 2nd, 2015"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2016+SRC+Deadline&iso=20150928T235959&p1=1033"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+SRC+Deadline&iso=20160926T2359&p1=1033"
     track: track3
     types:
       - plural: Student Research Competition

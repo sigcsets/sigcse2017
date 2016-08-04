@@ -31,11 +31,33 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
 
-        {% include nav/info-dropdown.html %}
-        {% include nav/for-attendees-dropdown.html %}
-        {% include nav/for-authors-dropdown.html %}
+        {% for top in site.data.topnav %}
+        <li class="dropdown">
 
-        {% include nav/for-reviewers-dropdown.html %}
+          <a href="#" class="dropdown-toggle"
+                      data-toggle="dropdown"
+                      role="button"
+                      aria-haspopup="true"
+                      aria-expanded="false">
+                      {{top[0]}}
+                      <span class="caret"></span>
+                    </a>
+          <ul class="dropdown-menu">
+          {% for sub in top[1] %}
+            {% if sub[1] %}
+            <li>
+              <!-- {{sub[1]}} -->
+              <a href="{{ sub[1] | prepend: site.baseurl }}">
+                  {{sub[0]}}</a>
+              </li>
+              {% else %}
+                <span style = "color: #CCC;">{{sub[0]}}</a>
+              {% endif %}
+          {% endfor %}
+          </ul>
+
+        </li> <!-- /dropdown -->
+        {% endfor %}
 
       </ul>
     </div><!-- /.navbar-collapse -->

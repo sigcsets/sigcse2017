@@ -6,14 +6,27 @@ layout: default
   </div>
 </div>
 <div class = "row" style = "margin-bottom: 20px;">
-  
+
   <div class = "col-sm-6">
     <h3>Inspire, Innovate, Improve!</h3>
-    
-    {% include front-news.html %}
-    
+
+<p>    SIGCSE 2017 welcomes colleagues from around the world to present demos, lightning talks, papers, panels, posters, special sessions, and workshops, and to discuss computer science education in birds-of-a-feather sessions and informal settings. The SIGCSE Technical Symposium addresses problems common among educators working to develop, implement and/or evaluate computing programs, curricula, and courses. The symposium provides a forum for sharing new ideas for syllabi, laboratories, and other elements of teaching and pedagogy, at all levels of instruction.
+</p>
+
+  <div class = "row">
+    <div class = "col-md-8">
+      {% include front-news.html %}
+    </div>
+    <div class = "col-md-4">
+      <img
+        src = "{{ '/images/sigcse2017-logo-300x200.png' | prepend: size.baseurl }}"
+        width = "300"
+        height  = "200"
+        alt = "The Amazing SIGCSE 2017 Logo, in blueish and greenish.">
+    </div>
   </div>
-  
+  </div>
+
   <div class = "col-sm-5 col-sm-offset-1">
     <div class = "row">
       <img  class = "img-responsive"
@@ -23,10 +36,11 @@ layout: default
                    A building, which might be a UFO, is in the foreground.
                    Picture CC-BY tiffany98101."/>
     </div>
-    
+
     <div class = "row">
       <h5> Important Dates </h5>
     </div>
+
     {% for dead in site.data.sigcse.deadlines %}
     <div class = "row">
       <div class = "col-sm-6" style = "font-weight: bold;">

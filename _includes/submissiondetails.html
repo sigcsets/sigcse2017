@@ -7,9 +7,11 @@
         {% assign subdate = site.data.cfp.track1.date %}
       {% elsif subtrack == "track2" %}
         {% assign subdate = site.data.cfp.track2.date %}
+        {% elsif subtrack == "track3" %}
+          {% assign subdate = site.data.cfp.track3.date %}
       {% else %}
-        {% assign subdate = "Oops." %}        
-      {% endif %}  
+        {% assign subdate = "Oops." %}
+      {% endif %}
       {% assign subtime = submission.time %}
       {% assign subnotification = submission.notification %}
       {% assign subcameraready = submission.cameraready %}
@@ -71,12 +73,12 @@ time: {{subtime}}
             {% else %}
             {% if subtrack == "track1" %}
               {% capture tracklink %}
-              <a href="{{site.data.cfp.track1url}}">{{site.data.main.upper}} {{site.data.main.year}} OpenConf </a>
+              <a href="{{site.data.cfp.track1url}}">{{site.data.main.upper}} {{site.data.main.year}} EasyChair </a>
               {% endcapture %}
               {% assign trackopen = site.data.cfp.track1open %}
             {% else if subtrack == "track2" %}
               {% capture tracklink %}
-              <a href="{{site.data.cfp.track2url}}">{{site.data.main.upper}} {{site.data.main.year}} OpenConf </a>
+              <a href="{{site.data.cfp.track2url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
               {% endcapture %}
               {% assign trackopen = site.data.cfp.track2open %}
             {% else %}
@@ -99,18 +101,18 @@ time: {{subtime}}
 
         <tr>
           <td><b>Notification to Authors </b></td>
-          <td> {{subnotification}}</td>
+          <td> TBA {% comment %}{{subnotification}} {% endcomment %}</td>
         </tr>
 
         <tr>
           <td><b>Camera-Ready Copy </b></td>
-          <td> {{subcameraready}}</td>
+          <td> TBA {% comment %} {{subcameraready}} {% endcomment %}</td>
         </tr>
-        
+
         <tr>
           <td><b>Camera-Ready Instructions</b></td>
           <td><a href="http://www.sheridanprinting.com/typedept/sigcse2016.htm">@ Sheridan Publishing</a></td>
-        </tr> 
+        </tr>
 
         {% comment %}
         <!--- FIXME: Why did I do this this way? It is probably to avoid
