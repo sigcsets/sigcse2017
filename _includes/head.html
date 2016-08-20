@@ -5,11 +5,35 @@
 
   <title>{{ site.title }}</title>
 
-  <link rel = "stylesheet" href = "{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
-  <link rel = "stylesheet" href = "{{ "/css/site-overrides.css" | prepend: site.baseurl }}">
-  <link rel = "stylesheet" href = "{{ "/css/font-awesome.css" | prepend: site.baseurl }}">
-  
+  <link rel = "stylesheet" href = "{{ '/css/bootstrap.min.css' | prepend: site.baseurl }}">
+  <link rel = "stylesheet" href = "{{ '/css/site-overrides.css' | prepend: site.baseurl }}">
+  <link rel = "stylesheet" href = "{{ '/css/font-awesome.css' | prepend: site.baseurl }}">
+
+  <!-- SmartMenus core CSS (required) -->
+  <link href="{{'/css/sm-core-css.css' | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
+  <!-- "sm-simple" menu theme (optional, you can use your own CSS, too) -->
+  <link href="{{'/css/sm-simple/sm-simple.css' | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
+
   <script type = "text/javascript" src = "{{ '/js/jquery-2.2.4.min.js' | prepend: site.baseurl }}"></script>
-  
+
   <script type = "text/javascript" src = "{{ '/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
+
+  <!-- SmartMenus jQuery plugin -->
+  <script type="text/javascript" src = "{{'/js/jquery.smartmenus.min.js' | prepend: site.baseurl }}"></script>
+
+  <!-- SmartMenus jQuery Bootstrap Addon CSS -->
+<link href = '{{"/css/jquery.smartmenus.bootstrap.css" | prepend: site.baseurl }}' rel="stylesheet">
+<!-- SmartMenus jQuery Bootstrap Addon -->
+<script type="text/javascript" src = '{{"/js/jquery.smartmenus.bootstrap.min.js" | prepend: site.baseurl }}'></script>
+
+<!-- SmartMenus jQuery init -->
+<script type="text/javascript">
+	$(function() {
+		$('#main-menu').smartmenus({
+			mainMenuSubOffsetX: -1,
+			subMenusSubOffsetX: 10,
+			subMenusSubOffsetY: 0
+		});
+	});
+</script>
 </head>

@@ -1,45 +1,84 @@
-Home:
-  Announcements: /
-CFP:
-  Important Dates: /authors/index.html
-  Papers: /authors/papers.html
-  Panels: /authors/panels.html
-  Special Sessions: /authors/specialsessions.html
-  Workshops: /authors/workshops.html
-  Student Research Competition: /authors/studentresearchcompetition.html
-  BoFs: /authors/birdsofafeather.html
-  Posters: /authors/posters.html
-  Lightning Talks: /authors/lightningtalks.html
-  Demos: /authors/demos.html
-Program:
-  Coming Soon:
-#  Keynote and Award Speakers:
-#  Overview:
-#    At-a-glance:
-#    Strands (K-12, CER, ...):
-#    Workshops:
-#    Panels:
-#    Special Sessions:
-#  Interactive Program:
-#  Special Activities:
-#    K-12 Highlights:
-#    Community College Educators:
-#    Kids Camp:
-#  Information for presenters:
-Registration:
-  Coming Soon:
-#  Online Registration:
-#  Student Volunteers:
-#  Venue:
-#    Seattle:
-#      Seattle Do/Eat Cheatsheet:
-#      Visit Seattle:
-#    Travel & Transport:
-#    Accommodation:
-#    Pre and Post Tours:
-Committees:
-  Coming Soon:
-#  Symposium Co-Chairs:
-#  Program Co-Chairs:
-#  Program Committe:
-#  Organizing Committee:
+- name: Home
+  subheads:
+    - name: Announcements
+      link: /
+    - name: Prospectus
+      link: /info/supporters.html
+- name: CFP
+  subheads:
+  - name: Important Dates
+    link: /authors/index.html
+  - name: Papers
+    link: /authors/papers.html
+  - name: Panels
+    link: /authors/panels.html
+  - name: Special Sessions
+    link: /authors/specialsessions.html
+  - name: Workshops
+    link: /authors/workshops.html
+  - name: Student Research Competition
+    link: /authors/studentresearchcompetition.html
+  - name: BoFs
+    link: /authors/birdsofafeather.html
+  - name: Posters
+    link: /authors/posters.html
+  - name: Lightning Talks
+    link: /authors/lightningtalks.html
+  - name: Demos
+    link: /authors/demos.html
+- name: Program
+  subheads:
+  - name: Keynote and Award Speakers
+    link: \#
+  - name: Overview
+    subheads:
+    - name: At-a-glance
+      link:  \#
+    - name: Strands (K-12, CER, ...)
+      link: \#
+    - name: Workshops
+      link: \#
+    - name: Panels
+      link: \#
+    - name: Special Sessions
+      link:  \#
+  - name: Interactive Program
+    link: \#
+  - name: Special Activities
+    subheads:
+    - name: K-12 Highlights
+      link: \#
+    - name: Community College Educators
+      link:  \#
+    - name: Kids Camp
+      link: \#
+  - name: Information for presenters
+    link: \#
+- name: Registration
+  subheads:
+    - name: Online Registration
+      link: \#
+    - name: Student Volunteers
+      link: \#
+    - name: Venue
+      subheads:
+        - name: To Do / Eat
+          link: \#
+        - name: Visit Seattle
+          link: \#
+        - name: Travel & Transport
+          link: \#
+        - name: Accommodation
+          link: \#
+        - name: Pre- and Post-Tours
+          link: \#
+- name: Committees
+  subheads:
+    - name: Symposium Co-Chairs
+      link: \#
+    - name: Program Co-Chairs
+      link: \#
+    - name: Program Committe
+      link: \#
+    - name: Organizing Committee
+      link: \#

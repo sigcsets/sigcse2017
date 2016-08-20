@@ -13,7 +13,7 @@
         <a href="/">
           <img
             style = " float: left;"
-            src = "{{ '/images/sigcse2017-logo-300x200.png' | prepend: size.baseurl }}"
+            src = "{{ '/images/sigcse2017-logo-300x200.png' | prepend: site.baseurl }}"
             height = "100"
             alt = "The Amazing SIGCSE 2017 Logo, in blueish and greenish.">
           </a>
@@ -30,7 +30,6 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-
         {% for top in site.data.topnav %}
         <li class="dropdown">
 
@@ -39,23 +38,43 @@
                       role="button"
                       aria-haspopup="true"
                       aria-expanded="false">
-                      {{top[0]}}
+                      {{top.name}}
                       <span class="caret"></span>
                     </a>
           <ul class="dropdown-menu">
-          {% for sub in top[1] %}
-            {% if sub[1] %}
-            <li>
-              <!-- {{sub[1]}} -->
-              <a href="{{ sub[1] | prepend: site.baseurl }}">
-                  {{sub[0]}}</a>
-              </li>
-              {% else %}
-                <span style = "color: #CCC;">{{sub[0]}}</a>
-              {% endif %}
+          {% for item in top.subheads %}
+            {% if item.subheads %}
+              <li class = "dropdown">
+                <a href="#" class="dropdown-toggle"
+                            data-toggle="dropdown"
+                            role="button"
+                            aria-haspopup="true"
+                            aria-expanded="false">
+                            {{item.name}}
+                            <span class="caret"></span>
+                          </a>
+                  <ul class = "dropdown-menu">
+                    {% for subi in item.subheads %}
+                    <!-- {{subi}} -->
+                    <li>
+                      <a href="{{ subi.link | prepend: site.baseurl }}">
+                          {{subi.name}}
+                      </a>
+                      </li>
+
+                    {% endfor %}
+                  </ul>
+              </li> <!-- internal dropdown -->
+            {% else %}
+              <li>
+                <!-- item[1]: {{item[1]}} item[0]: {{item[0]}}-->
+                <a href="{{ item.link | prepend: site.baseurl }}">
+                    {{item.name}}
+                </a>
+                </li>
+            {% endif %}
           {% endfor %}
           </ul>
-
         </li> <!-- /dropdown -->
         {% endfor %}
 
