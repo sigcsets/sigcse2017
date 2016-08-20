@@ -26,7 +26,7 @@ master:
     notification: "Monday, October 12th, 2015"
     updates:
     cameraready: "Sunday, December 6th (was November 30th)"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+Paper%2C+Deadline&iso=20160826T2359&p1=1033"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+Paper+Deadline&iso=20160826T2359&p1=3399"
     track: track1
     types:
       - plural: Papers
@@ -37,7 +37,7 @@ master:
     notification: "Monday, October 12th, 2015"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20161021T2359&p1=1033"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20161021T2359&p1=3399"
     track: track1
     types:
       - plural: Panels
@@ -54,7 +54,7 @@ master:
     notification: "Monday, November 2nd, 2015"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+SRC+Deadline&iso=20160926T2359&p1=1033"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+SRC+Deadline&iso=20160926T2359&p1=3399"
     track: track3
     types:
       - plural: Student Research Competition
@@ -76,7 +76,7 @@ master:
     notification: "Tuesday, November 17th, 2015"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2016+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20151023T235959&p1=1033"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2016+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20151023T235959&p1=3399"
     track: track2
     types:
       - plural: Birds of a Feather
