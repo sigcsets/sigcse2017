@@ -33,7 +33,7 @@
 - name: Program
   subheads:
     - name: Coming Soon
-      link: \#
+      link: "#"
   # - name: Keynote and Award Speakers
   #   link: \#
   # - name: Overview
@@ -81,7 +81,7 @@
 - name: Committees
   subheads:
     - name: Symposium Co-Chairs
-      link: /info/committees.html#Symposium%Co-Chairs
+      link: /info/committees.html#SymposiumCo-Chairs
     - name: Program Co-Chairs
       link: /info/committees.html#ProgramCo-Chairs
     - name: Program Committe
