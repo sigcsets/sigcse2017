@@ -32,50 +32,52 @@
     link: /authors/demos.html
 - name: Program
   subheads:
-  - name: Keynote and Award Speakers
-    link: \#
-  - name: Overview
-    subheads:
-    - name: At-a-glance
-      link:  \#
-    - name: Strands (K-12, CER, ...)
+    - name: Coming Soon
       link: \#
-    - name: Workshops
-      link: \#
-    - name: Panels
-      link: \#
-    - name: Special Sessions
-      link:  \#
-  - name: Interactive Program
-    link: \#
-  - name: Special Activities
-    subheads:
-    - name: K-12 Highlights
-      link: \#
-    - name: Community College Educators
-      link:  \#
-    - name: Kids Camp
-      link: \#
-  - name: Information for presenters
-    link: \#
+  # - name: Keynote and Award Speakers
+  #   link: \#
+  # - name: Overview
+  #   subheads:
+  #   - name: At-a-glance
+  #     link:  \#
+  #   - name: Strands (K-12, CER, ...)
+  #     link: \#
+  #   - name: Workshops
+  #     link: \#
+  #   - name: Panels
+  #     link: \#
+  #   - name: Special Sessions
+  #     link:  \#
+  # - name: Interactive Program
+  #   link: \#
+  # - name: Special Activities
+  #   subheads:
+  #   - name: K-12 Highlights
+  #     link: \#
+  #   - name: Community College Educators
+  #     link:  \#
+  #   - name: Kids Camp
+  #     link: \#
+  # - name: Information for presenters
+  #   link: \#
 - name: Registration
   subheads:
-    - name: Online Registration
-      link: \#
+    # - name: Online Registration
+    #   link: \#
     - name: Student Volunteers
-      link: \#
-    - name: Venue
-      subheads:
-        - name: To Do / Eat
-          link: \#
-        - name: Visit Seattle
-          link: \#
-        - name: Travel & Transport
-          link: \#
-        - name: Accommodation
-          link: \#
-        - name: Pre- and Post-Tours
-          link: \#
+      link: /info/studentvolunteers.html
+    # - name: Venue
+    #   subheads:
+    #     - name: To Do / Eat
+    #       link: \#
+    #     - name: Visit Seattle
+    #       link: \#
+    #     - name: Travel & Transport
+    #       link: \#
+    #     - name: Accommodation
+    #       link: \#
+    #     - name: Pre- and Post-Tours
+    #       link: \#
 - name: Committees
   subheads:
     - name: Symposium Co-Chairs
