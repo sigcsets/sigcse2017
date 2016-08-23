@@ -22,7 +22,7 @@ presymposiumdates: "Wednesday, March 2nd, 2016"
 presymposiumformurl: "docs/sigcse-pre-symposium-events.docx"
 
 master:
-  - time: "23:59 in Pago Pago, American Samoa (UTC-11h)"
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Monday, October 12th, 2015"
     updates:
     cameraready: "Sunday, December 6th (was November 30th)"
@@ -33,7 +33,7 @@ master:
         singular: Paper
         include: papers
 
-  - time: "23:59 in Pago Pago, American Samoa (UTC-11h)"
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Monday, October 12th, 2015"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
@@ -50,7 +50,7 @@ master:
         singular: Workshop
         include: workshops
 
-  - time: "23:59 in Pago Pago, American Samoa (UTC-11h)"
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Monday, November 2nd, 2015"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
@@ -72,7 +72,7 @@ master:
   #       singular: Pre-Symposium and Affiliated Event
   #       include: presymposium
 
-  - time: "23:59 in Pago Pago, American Samoa (UTC-11h)"
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Tuesday, November 17th, 2015"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
