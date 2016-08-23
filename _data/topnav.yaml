@@ -26,6 +26,17 @@
     link: /authors/lightningtalks.html
   - name: Demos
     link: /authors/demos.html
+- name: Reviewers
+  subheads:
+    - name: Review Process
+      link: /reviewers/review-process.html
+    - name: Reviewer Responsibilities
+      link: /reviewers/reviewer-responsibilities.html
+    - name: APC Responsibilities
+      link: /reviewers/apc-responsibilities.html
+    - name: Reviewer Signup
+      link: /reviewers/signup.html
+      
 - name: Program
   subheads:
     - name: Coming Soon
