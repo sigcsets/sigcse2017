@@ -35,7 +35,7 @@ title: Committees
     </tr>
     <tr>
       <td> <b> Email: </b> </td>
-      <td> {{memb.email}} </td>
+      <td> <a href = "mailto:{{memb.email}}">{{memb.email}}</a> </td>
     </tr>
   </table>
 </div>  

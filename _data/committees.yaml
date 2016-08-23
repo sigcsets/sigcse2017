@@ -1,140 +1,173 @@
+# sigcse2017-*@cs.vt.edu
 - name: Symposium Co-Chairs
   members:
     - name: Stephen Edwards
       role: Symposium Co-Chair
       inst: Virginia Tech
-      email: edwards@cs.vt.edu
+      email: sigcse2017-symposium@cs.vt.edu
+
     - name: Michael E. Caspersen
       role: Symposium Co-Chair
       inst: Aarhus University
-      email: mec@cs.au.dk
+      email: sigcse2017-symposium@cs.vt.edu
+
 - name: Program Co-Chairs
   members:
   - name: Tiffany Barnes
     role: Program Co-Chair
     inst: North Carolina State University
-    email: tmbarnes@ncsu.edu
+    email: sigcse2017-program@cs.vt.edu
+
   - name: Daniel Garcia
     role: Program Co-Chair
     inst: University of California,Berkeley
-    email: ddgarcia@berkeley.edu
+    email: sigcse2017-program@cs.vt.edu
+
 - name: Program Committee
   members:
   - name: Jian Zhang
     role: Panels and Special Sessions
     inst: "Texas Woman's University"
-    email: jzhang@twu.edu
+    email: sigcse2017-panels@cs.vt.edu
+
   - name: Bo Brinkman
     role: Workshops
     inst: Miami University
-    email: Bo.Brinkman@MiamiOH.edu
+    email: sigcse2017-workshops@cs.vt.edu
+
   - name: Michelle Craig
     role: Workshops
     inst:  University of Toronto
-    email: mcraig@cs.toronto.edu
+    email: sigcse2017-workshops@cs.vt.edu
+
   - name: Phil East
     role: Posters
     inst:  University of Northern Iowa
-    email: east@cs.uni.edu
+    email: sigcse2017-posters@cs.vt.edu
+
   - name: Brian Dorn
     role: Birds Of A Feather
     inst:  University of Nebraska at Omaha
-    email: bdorn@unomaha.edu
+    email: sigcse2017-bofs@cs.vt.edu
+
   - name: Steven Wolfman
     role: Lightning Talks
     inst: University of British Columbia
-    email: wolf@cs.ubc.ca
+    email: sigcse2017-lightning@cs.vt.edu
+
   - name: Sarah Heckman
     role: Demos
     inst: North Carolina State University
-    email: sarah_heckman@ncsu.edu
+    email: sigcse2017-demos@cs.vt.edu
+
 - name: Organizing Committee
   members:
   - name: Lynn Degler
     role: Registration
     inst: Rose-Hulman Institute of Technology
-    email: degler@rose-hulman.edu
+    email: sigcse2017-reg@cs.vt.edu
+
   - name: Cary Laxer
     role: Registration
     inst:  Rose-Hulman Institute of Technology
-    email: laxer@rose-hulman.edu
+    email: sigcse2017-reg@cs.vt.edu
+
   - name: Larry Merkle
     role: Registration
     inst: Computational Optimization Services
-    email: l.merkle@ieee.org
+    email: sigcse2017-reg@cs.vt.edu
+
   - name: Brad Miller
     role: Database Administrator
     inst:  Luther College
     email: bmiller@luther.edu
+
   - name: Leen-Kiat Soh
     role: Database Administrator
     inst:  University of Nebraska,Lincoln
-    email: lksoh@cs.unl.edu
+    email: sigcse2017-database@cs.vt.edu
+
   - name: Ruth Anderson
     role: Publications
     inst:  University of Washington
-    email: rea@cs.washington.edu
+    email: sigcse2017-publications@cs.vt.edu
+
   - name: Matt Jadud
     role: Webmaster
     inst:  Berea College
-    email: matt_jadud@berea.edu
+    email: sigcse2017-webmaster@cs.vt.edu
+
   - name: Paul Tymann
     role: Treasurer
     inst:  Rochester Institute of Technology
-    email: ptt@cs.rit.edu
+    email: sigcse2017-treasurer@cs.vt.edu
+
   - name: Tom Cortina
     role: Sponsor/Exhibitor Liaison
     inst:  Carnegie Mellon University
-    email: tcortina@cs.cmu.edu
+    email: sigcse2017-exhibitor@cs.vt.edu
+
   - name: Dave Musicant
     role: Sponsor/Exhibitor Liaison
     inst:  Carleton College
-    email: dmusican@carleton.edu
+    email: sigcse2017-exhibitor@cs.vt.edu
+
   - name: Alison Clear
     role: Evaluations Chair
     inst:  Christchurch Polytechnic Institute of Technology
-    email: alison.clear@cpit.ac.nz
+    email: sigcse2017-evaluations@cs.vt.edu
+
   - name: Rachelle Kristof Hippler
     role: Pre-Symposium & Affiliated Events
     inst: Bowling Green State University
-    email: rkristo@bgsu.edu
+    email: sigcse2017-events@cs.vt.edu
+
   - name: Sarah Heckman
     role: Student Volunteers & Activities
     inst:  North Carolina State University
-    email: sarah_heckman@ncsu.edu
+    email: sigcse2017-volunteers@cs.vt.edu
+
   - name: Sara Melnick
     role: Student Volunteers & Activities
     inst:  Columbia University
-    email: sararielle@gmail.com
+    email: sigcse2017-volunteers@cs.vt.edu
+
   - name: S. Monisha Pulimood
     role: Student Volunteers & Activities
     inst: The College of New Jersey
-    email: pulimood@tcnj.edu
+    email: sigcse2017-volunteers@cs.vt.edu
+
   - name: Leigh Ann Sudol-DeLyser
     role: K-12 Liaison
     inst:  CSNYC
-    email: leighann@csnyc.org
+    email: sigcse2017-k12@cs.vt.edu
+
   - name: Paul Denny
     role: International Liaison
     inst:  The University of Auckland
-    email: paul@cs.auckland.ac.nz
+    email: sigcse2017-international@cs.vt.edu
+
   - name: Valerie Henderson Summet
     role: Kids’ Camp Co-Chair
     inst:  Emory University
-    email: valerie@mathcs.emory.edu
+    email: sigcse2017-kidscamp@cs.vt.edu
+
   - name: Charles R. Hardnett
     role: Kids’ Camp Co-Chair
     inst:  Gwinnett Technical College
-    email: chardnett@gwinnetttech.edu
+    email: sigcse2017-kidscamp@cs.vt.edu
+
   - name: Christine L. Moore
     role: Publicity and Social Media
     inst:  College of Charleston
-    email: moorec@cofc.edu
+    email: sigcse2017-publicity@cs.vt.edu
+
   - name: Ruth Anderson
     role: Local Arrangements Chair
     inst:  University of Washington
-    email: rea@cs.washington.edu
+    email: sigcse2017-local@cs.vt.edu
+
   - name: Ann Sobel
     role: Student Research Competition
     inst:  Miami University (Ohio)
-    email: sobelae@miamioh.edu
+    email: sigcse2017-src@cs.vt.edu
