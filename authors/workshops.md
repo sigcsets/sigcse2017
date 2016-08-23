@@ -153,4 +153,4 @@ Workshop can be edited in response to reviews.)
 
 {% include presenter-warning.html howmany = "ALL" kind = "workshop" %}
 
-{% include submission-questions category="Workshops Co-Wrangler" %}
+{% include submission-questions category="Workshops" %}

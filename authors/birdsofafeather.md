@@ -48,4 +48,4 @@ The abstract is the description of the BOF that will appear on the conference we
 
 {% include presenter-warning.html howmany = "ALL" kind = "BOF" %}
 
-{% include submission-questions category="Birds-Of-a-Feather (BOFs) Wrangler" %}
+{% include submission-questions category="Birds Of A Feather" %}

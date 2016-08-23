@@ -69,4 +69,4 @@ and page limits.
 
 {% include presenter-warning.html howmany = "ALL" kind = "panel" %}
 
-{% include submission-questions category="Panels Wrangler" %}
+{% include submission-questions category="Panels and Special Sessions" %}

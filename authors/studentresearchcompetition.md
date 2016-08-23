@@ -61,7 +61,7 @@ Student Research Competition Proposal Format and Contents (limited to
 
 -   **Background and Related Work**: This section should describe the
     specialized (but pertinent) background necessary to appreciate the
-    work. Include references to the literature where appropriate, and
+    work. Include references to the literaturChaire where appropriate, and
     briefly explain where your work departs from that done by others.
     Reference lists do not count towards the limit on the length of the
     abstract.
@@ -89,4 +89,4 @@ Submit a plain ASCII-text electronic copy of the extended abstract
 Travel grants of up to \$500 may be available for students who do not
 have another source of funding and are ACM student members.
 
-{% include submission-questions category="Student Research Competition Chair" %}
+{% include submission-questions category="Student Research Competition" %}

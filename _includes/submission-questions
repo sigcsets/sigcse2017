@@ -2,13 +2,13 @@
 {% assign count = 0 %}
 {% assign plural = "" %}
 
-{% for cochair in site.data.committee %}
-  {% if (cochair.title == include.category) %}
-    {% assign count = count | plus: 1 %}
-  {% endif %}
+{% for cat in site.data.committees %}
+  {% for member in cat.members %}
+    {% if member.role == include.category %}
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
-
-
 
 {% comment %}
 Liquid number comparison is awful.
@@ -21,9 +21,28 @@ http://stackoverflow.com/questions/16762714/how-can-i-compare-a-strings-size-len
   {% assign plural = "s" %}
 {% endunless %}
 
-If you have questions about anything discussed above, please contact the <a href="/info/committees.html">{{site.data.main.upper}} {{site.data.main.year}} {{include.category}}{{plural}}</a>. 
+{% if plurality contains '-' %}
+  {% assign grouping = "Chair" %}
+{% else %}
+  {% assign grouping = "Team" %}
+{% endif %}
+
+
+If you have questions about anything discussed above, please contact the <a href="/info/committees.html">{{site.data.main.upper}} {{site.data.main.year}} {{include.category}} {{grouping}}</a>.
 
 <ul style="">
+{% for category in site.data.committees %}
+  {% for member in category.members %}
+    {% if member.role == include.category %}
+    <li style="padding-bottom: 10px;"><b>{{member.name}}</b><br/>
+      {{member.inst}} <br/>
+      <a href="mailto:{{member.email}}">{{member.email}}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+
 {% for cochair in site.data.committee %}
 {% if (cochair.title == include.category) %}
 <li style="padding-bottom: 10px;"><b>{{cochair.name}}</b><br/>

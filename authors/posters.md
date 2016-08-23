@@ -107,4 +107,4 @@ posters can be edited in response to reviews.)
 
 {% include presenter-warning.html %}
 
-{% include submission-questions category="Posters Wrangler" %}
+{% include submission-questions category="Posters" %}

@@ -62,4 +62,4 @@ reviews.)
 
 {% include presenter-warning.html %}
 
-{% include submission-questions category="Lightning Talks Wrangler" %}
+{% include submission-questions category="Lightning Talks" %}

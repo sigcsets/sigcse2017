@@ -49,4 +49,4 @@ The abstract is the description of the Demo that will appear on the conference w
 
 {% include presenter-warning.html %}
 
-{% include submission-questions category="Demos Wrangler" %}
+{% include submission-questions category="Demos" %}
