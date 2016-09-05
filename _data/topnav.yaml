@@ -1,7 +1,3 @@
-- name: Sponsors & Exibitors
-  subheads:
-    - name: Prospectus
-      link: /info/supporters.html
 - name: CFP
   subheads:
   - name: Call for Participation
@@ -36,7 +32,30 @@
       link: /reviewers/apc-responsibilities.html
     - name: Reviewer Signup
       link: /reviewers/signup.html
-      
+- name: Attendees
+  subheads:
+    - name: Rates and Registration
+      link: /attendees/index.html
+    # - name: Online Registration
+    #   link: \#
+    - name: Student Volunteers
+      link: /info/studentvolunteers.html
+    # - name: Venue
+    #   subheads:
+    #     - name: To Do / Eat
+    #       link: \#
+    #     - name: Visit Seattle
+    #       link: \#
+    #     - name: Travel & Transport
+    #       link: \#
+    #     - name: Accommodation
+    #       link: \#
+    #     - name: Pre- and Post-Tours
+    #       link: \#
+- name: Sponsors & Exibitors
+  subheads:
+    - name: Prospectus
+      link: /info/supporters.html
 - name: Program
   subheads:
     - name: Coming Soon
@@ -67,24 +86,6 @@
   #     link: \#
   # - name: Information for presenters
   #   link: \#
-- name: Registration
-  subheads:
-    # - name: Online Registration
-    #   link: \#
-    - name: Student Volunteers
-      link: /info/studentvolunteers.html
-    # - name: Venue
-    #   subheads:
-    #     - name: To Do / Eat
-    #       link: \#
-    #     - name: Visit Seattle
-    #       link: \#
-    #     - name: Travel & Transport
-    #       link: \#
-    #     - name: Accommodation
-    #       link: \#
-    #     - name: Pre- and Post-Tours
-    #       link: \#
 - name: Committees
   subheads:
     - name: Symposium Co-Chairs
