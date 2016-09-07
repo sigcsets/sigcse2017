@@ -2,24 +2,24 @@
 - name: Symposium Co-Chairs
   members:
     - name: Stephen Edwards
-      role: Symposium Co-Chair
+      # role: Symposium Co-Chair
       inst: Virginia Tech
       email: sigcse2017-symposium@cs.vt.edu
 
     - name: Michael E. Caspersen
-      role: Symposium Co-Chair
+      # role: Symposium Co-Chair
       inst: Aarhus University
       email: sigcse2017-symposium@cs.vt.edu
 
 - name: Program Co-Chairs
   members:
   - name: Tiffany Barnes
-    role: Program Co-Chair
+    # role: Program Co-Chair
     inst: North Carolina State University
     email: sigcse2017-program@cs.vt.edu
 
   - name: Daniel Garcia
-    role: Program Co-Chair
+    # role: Program Co-Chair
     inst: University of California,Berkeley
     email: sigcse2017-program@cs.vt.edu
 
@@ -59,6 +59,213 @@
     role: Demos
     inst: North Carolina State University
     email: sigcse2017-demos@cs.vt.edu
+
+- name: Associate Program Chairs
+  members: 
+  - name: Eric Aaron
+    inst: Vassar College
+    #email: eaaron@cs.vassar.edu
+
+  - name: Liz Adams
+    inst: 
+    #email: adamses@jmu.edu
+
+  - name: Joel Adams
+    inst: Calvin College
+    #email: adams@calvin.edu
+
+  - name: Rajeev Agrawal
+    inst: NC A&T
+    #email: ragrawal@ncat.edu
+
+  - name: Carl Alphonce
+    inst: University at Buffalo
+    #email: alphonce@buffalo.edu
+
+  - name: Christine Alvarado
+    inst: UC San Diego
+    #email: christine.alvarado@gmail.com
+
+  - name: Ruth Anderson
+    inst: University of Washington
+    #email: rea@cs.washington.edu
+
+  - name: Marie Bienkowski
+    inst: SRI International
+    #email: marie.bienkowski@sri.com
+
+  - name: Don Blaheta
+    inst: Longwood University
+    #email: blahetadp@longwood.edu
+
+  - name: Kristy Elizabeth Boyer
+    inst: University of Florida
+    #email: keboyer@ufl.edu
+
+  - name: Bo Brinkman
+    inst: Miami University
+    #email: Bo.Brinkman@MiamiOH.edu
+
+  - name: Alistair Campbell
+    inst: Hamilton College
+    #email: acampbel@hamilton.edu
+
+  - name: Lilian Cassel
+    inst: Villanova University
+    #email: lillian.cassel@villanova.edu
+
+  - name: Michael Clancy
+    inst: University of California, Berkeley
+    #email: clancy@cs.berkeley.edu
+
+  - name: Steve Cooper
+    inst: University of Nebraska, Lincoln
+    #email: coopers@cs.stanford.edu
+
+  - name: Adrienne Decker
+    inst: Rochester Institute of Technology
+    #email: Adrienne.Decker@rit.edu
+
+  - name: Leigh Ann Delyser
+    inst: NYC Foundation for CS Education
+    #email: leighann@csnyc.org
+
+  - name: John Dougherty
+    inst: Haverford College
+    #email: jpdougherty@acm.org
+
+  - name: Kathi Fisler
+    inst: WPI
+    #email: kfisler@cs.wpi.edu
+
+  - name: Judith Gal-Ezer
+    inst: The Open University of Israel
+    #email: galezer@cs.openu.ac.il
+
+  - name: Don Goelman
+    inst: Villanova University
+    #email: don.goelman@villanova.edu
+
+  - name: Elizabeth Hawthorne
+    inst: Union County College
+    #email: hawthorne@ucc.edu
+
+  - name: Sarah Heckman
+    inst: North Carolina State University
+    #email: sarah_heckman@ncsu.edu
+
+  - name: Cecily Heiner
+    inst: Southern Utah University
+    #email: cecilyheiner@suu.edu
+
+  - name: Sharon Hsiao
+    inst: Arizona State University
+    #email: Sharon.Hsiao@asu.edu
+
+  - name: Daniel Joyce
+    inst: Villanova University
+    #email: daniel.joyce@villanova.edu
+
+  - name: Andrew Ko
+    inst: University of Washington
+    #email: ajko@uw.edu
+
+  - name: Michael Kölling
+    inst: University of Kent
+    #email: m.kolling@kent.ac.uk
+
+  - name: David Levine
+    inst: Saint Bonaventure University
+    #email: dlevine@sbu.edu
+
+  - name: Colleen Lewis
+    inst: Harvey Mudd College
+    #email: ColleenLewis@gmail.com
+
+  - name: Lester McCann
+    inst: University of Arizona
+    #email: mccann@cs.arizona.edu
+
+  - name: Robert McCartney
+    inst: University of Connecticut
+    #email: robert@engr.uconn.edu
+
+  - name: Kris Nagel
+    inst: Georgia Gwinnett College
+    #email: knagel@ggc.edu
+
+  - name: Jody Paul
+    inst: Metropolitan State University of Denver
+    #email: jody@acm.org
+
+  - name: Manuel Perez-Quinones
+    inst: UNCC
+    #email: mperez19@uncc.edu
+
+  - name: S. Monisha Pulimood
+    inst: The College of New Jersey
+    #email: pulimood@tcnj.edu
+
+  - name: Samuel Rebelsky
+    inst: Grinnell College
+    #email: rebelsky@grinnell.edu
+
+  - name: Brad Richards
+    inst: Univ. of Puget Sound
+    #email: brichards@pugetsound.edu
+
+  - name: Judy Sheard
+    inst: Monash University
+    #email: Judy.Sheard@monash.edu
+
+  - name: Mark Sherriff
+    inst: University of Virginia
+    #email: sherriff@virginia.edu
+
+  - name: Beth Simon
+    inst: UC San Diego
+    #email: bsimon@cs.ucsd.edu
+
+  - name: Jaime Spacco
+    inst: Knox College
+    #email: jspacco@knox.edu
+
+  - name: Luther Tychonievich
+    inst: University of Virginia
+    #email: lat7h@virginia.edu
+
+  - name: Paul Tymann
+    inst: RIT
+    #email: paul.tymann@gmail.com
+
+  - name: Jan Vahrenhold
+    inst: Westfälische Wilhelms-Universität Münster
+    #email: jan.vahrenhold@uni-muenster.de
+
+  - name: Tammy Vandegrift
+    inst: University of Portland
+    #email: vandegri@up.edu
+
+  - name: Henry Walker
+    inst: Grinnell College
+    #email: walker@cs.grinnell.edu
+
+  - name: Ellen Walker
+    inst: Hiram College
+    #email: walkerel@hiram.edu
+
+  - name: Steven Wolfman
+    inst: UBC
+    #email: wolf@cs.ubc.ca
+
+  - name: Ursula Wolz
+    inst: Riversound Solutions
+    #email: ursula.wolz@gmail.com
+
+  - name: Jian Zhang
+    inst: Texas Woman's University
+    #email: jzhang@twu.edu
+
 
 - name: Organizing Committee
   members:
