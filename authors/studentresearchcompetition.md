@@ -38,7 +38,7 @@ recently completed or ongoing computer science research conducted
 primarily by students.
 
 Additional competition details, including information about past
-winners, can be found on the [ACM Student Research Competition home page
+winners, can be found on the ACM Student Research Competition home page
 ([http://www.acm.org/src/](http://www.acm.org/src/)).
 
 ## What Should a Submission Contain?
