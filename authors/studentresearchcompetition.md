@@ -74,13 +74,6 @@ Student Research Competition Proposal Format and Contents (limited to
     results of your work contribute to computer science and should
     explain the significance of those results.
 
-## Student Research Competition Abstract (limited to {{site.data.cfp.details.["Student Research Competition"].abstract}})
-
-Include a separate paragraph (maximum of
-{{site.data.cfp.details[plural].abstract}}, including whitespace) for
-publication in the conference proceedings that serves as a succinct
-description of the project.
-
 ## How Do I Submit My Entry?
 
 Write your submission using the format specified above.
