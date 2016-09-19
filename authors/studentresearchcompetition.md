@@ -43,36 +43,22 @@ winners, can be found on the [ACM Student Research Competition home page
 
 ## What Should a Submission Contain?
 
-Research projects from all areas of computer science are acceptable. The
-author submitting the abstract must still be a student at the time the
-abstract is due. Each submission should include the author's name,
-affiliation, postal address, and email address; research advisor's name;
-ACM student member number; category (undergraduate or graduate);
-research title; and an extended abstract (maximum
-{{site.data.cfp.details[plural].limits}}) containing the following
-sections:
+Research projects from all areas of computer science are acceptable. The author submitting the abstract must still be a student at the time the abstract is due.
 
-Student Research Competition Proposal Format and Contents (limited to
-{{site.data.cfp.details.["Student Research Competition"].limits}})
+Entries are to be provided in PDF format. The full submission contains an abstract and a body that describes your work (as detailed below). The abstract needs to appear in two places: in the PDF entry and in a text box on the submission page.
 
--   **Problem and Motivation**: This section should clearly state the
-    problem being addressed and explain the reasons for seeking a
-    solution to this problem.
+The full submission is used for the review process only. If the submission
+is accepted, the abstract is the description that appears on the Symposium website and in the Symposium program and proceedings. The format for the submission is as follows:
 
--   **Background and Related Work**: This section should describe the
-    specialized (but pertinent) background necessary to appreciate the
-    work. Include references to the literaturChaire where appropriate, and
-    briefly explain where your work departs from that done by others.
-    Reference lists do not count towards the limit on the length of the
-    abstract.
+ - **Abstract**: A succinct description of the work. The same abstract will also need to be submitted via a text box on the submission page. Please be sure that your description is accurate and that both submitted copies (here in the PDF entry, and in the submission text box) are exactly the same.
 
--   **Approach and Uniqueness**: This section should describe your approach
-    in attacking the problem and should clearly state how your approach
-    is novel.
+ - **Problem and Motivation**: This section should clearly state the problem being addressed and explain the reasons for seeking a solution to this problem.
 
--   **Results and Contributions**: This section should clearly show how the
-    results of your work contribute to computer science and should
-    explain the significance of those results.
+ - **Background and Related Work**: This section should describe the specialized (but pertinent) background necessary to appreciate the work. Include references to the literaturChaire where appropriate, and briefly explain where your work departs from that done by others. Reference lists do not count towards the limit on the length of the submission.
+
+ - **Approach and Uniqueness**: This section should describe your approach in attacking the problem and should clearly state how your approach is novel.
+
+ - **Results and Contributions**: This section should clearly show how the results of your work contribute to computer science and should explain the significance of those results."
 
 ## How Do I Submit My Entry?
 
