@@ -132,10 +132,11 @@ details:
     connector: "including"
     abstract: "250 words"
     length: "30 minutes (during breaks)"
+  #  2 pages (including abstract of 250 words but not including references)
   Student Research Competition:
-    limits: "800 words"
-    connector: "in addition to"
-    abstract: "800 characters"
+    limits: "2 pages"
+    connector: "including"
+    abstract: "250 words, but not including references"
     length: "2 hours (poster session)"
     specialsubmission: true
   Pre-Symposium and Affiliated Events:
