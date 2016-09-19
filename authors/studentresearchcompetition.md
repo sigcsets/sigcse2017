@@ -83,8 +83,9 @@ description of the project.
 
 ## How Do I Submit My Entry?
 
-Submit a plain ASCII-text electronic copy of the extended abstract
-({{site.data.cfp.details[plural].limits}}) by the submission deadline.
+Write your submission using the format specified above.
+
+When you are done, convert your paper into Adobe PDF format. Refer to our Creating Adobe PDF Documents page for assistance.
 
 Travel grants of up to \$500 may be available for students who do not
 have another source of funding and are ACM student members.
