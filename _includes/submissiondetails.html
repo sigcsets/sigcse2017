@@ -68,9 +68,15 @@ time: {{subtime}}
         <tr>
           <td><b>Submission Link </b></td>
           <td>
-            {% if specialsubmission %}
+            {% comment %}
+            This can probably be simplified now... no longer have special cases...
+            MCJ 20160919
+            Specifically, the SRC is now through easychair.
+            {% endcomment %}
+            {% if false %}
             See below
             {% else %}
+
             {% if subtrack == "track1" %}
               {% capture tracklink %}
               <a href="{{site.data.cfp.track1url}}">{{site.data.main.upper}} {{site.data.main.year}} EasyChair </a>
@@ -81,6 +87,11 @@ time: {{subtime}}
               <a href="{{site.data.cfp.track2url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
               {% endcapture %}
               {% assign trackopen = site.data.cfp.track2open %}
+              {% else if subtrack == "track3" %}
+                {% capture tracklink %}
+                <a href="{{site.data.cfp.track3url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
+                {% endcapture %}
+                {% assign trackopen = site.data.cfp.track3open %}
             {% else %}
               {% capture tracklink %}
               NA
