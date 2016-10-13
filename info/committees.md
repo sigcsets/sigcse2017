@@ -35,14 +35,10 @@ title: Committees
       <td> <b> Institution: </b> </td>
       <td> {{memb.inst}} </td>
     </tr>
-    {% if {{memb.email}} %}
-      <tr>
-        <td> <b> Email: </b> </td>
-        <td> <a href = "mailto:{{memb.email}}">{{memb.email}}</a> </td>
-      </tr>
-    {% endif %}
+
   </table>
 </div>  
   {% endfor %}
 </div> <!-- row -->
 {% endfor %}
+

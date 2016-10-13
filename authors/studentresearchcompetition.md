@@ -53,7 +53,7 @@ research title; and an extended abstract (maximum
 sections:
 
 Student Research Competition Proposal Format and Contents (limited to
-{{site.data.cfp.details.["Student Research Competition"].limits}})
+{{site.data.cfp.details["Student Research Competition"].limits}})
 
 -   **Problem and Motivation**: This section should clearly state the
     problem being addressed and explain the reasons for seeking a
@@ -61,7 +61,7 @@ Student Research Competition Proposal Format and Contents (limited to
 
 -   **Background and Related Work**: This section should describe the
     specialized (but pertinent) background necessary to appreciate the
-    work. Include references to the literaturChaire where appropriate, and
+    work. Include references to the literature where appropriate, and
     briefly explain where your work departs from that done by others.
     Reference lists do not count towards the limit on the length of the
     abstract.
@@ -74,7 +74,7 @@ Student Research Competition Proposal Format and Contents (limited to
     results of your work contribute to computer science and should
     explain the significance of those results.
 
-## Student Research Competition Abstract (limited to {{site.data.cfp.details.["Student Research Competition"].abstract}})
+## Student Research Competition Abstract (limited to {{site.data.cfp.details["Student Research Competition"].abstract}})
 
 Include a separate paragraph (maximum of
 {{site.data.cfp.details[plural].abstract}}, including whitespace) for
