@@ -1,5 +1,5 @@
 ---
-title: "Submission Guidelines"
+title: "Dates and Guidelines"
 showTitle: true
 ---
 
@@ -13,7 +13,7 @@ We have broken out submission guidelines by type. There are many ways to share t
     {% for submission in site.data.cfp.master %}
       <tr>
         <td> <b>
-          
+
         {% if submission.track == "track1" %}
            {{site.data.cfp.track1.date}}
         {% elsif submission.track == "track2" %}

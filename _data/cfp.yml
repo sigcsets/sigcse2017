@@ -4,6 +4,8 @@ track1open: true
 track1url: https://easychair.org/conferences/?conf=sigcse2017
 track2open: true
 track2url: https://easychair.org/conferences/?conf=sigcse2017
+track3url: https://easychair.org/conferences/?conf=sigcse2017
+track3open: true
 
 # Friday, August 26, 2016
 track1:
@@ -23,7 +25,7 @@ presymposiumformurl: "docs/sigcse-pre-symposium-events.docx"
 
 master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Monday, October 12th, 2015"
+    notification: "Friday, October 14, 2016"
     updates:
     cameraready: "Sunday, December 6th (was November 30th)"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+Paper+Deadline&iso=20160826T2359&p1=3399"
@@ -34,7 +36,7 @@ master:
         include: papers
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Monday, October 12th, 2015"
+    notification: "Friday, October 14, 2016"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20161021T2359&p1=3399"
@@ -73,7 +75,7 @@ master:
   #       include: presymposium
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Tuesday, November 17th, 2015"
+    notification: "Monday, November 28th, 2016"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2016+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20151023T235959&p1=3399"
@@ -130,10 +132,11 @@ details:
     connector: "including"
     abstract: "250 words"
     length: "30 minutes (during breaks)"
+  #  2 pages (including abstract of 250 words but not including references)
   Student Research Competition:
-    limits: "800 words"
-    connector: "in addition to"
-    abstract: "800 characters"
+    limits: "2 pages"
+    connector: "including"
+    abstract: "250 words, but not including references"
     length: "2 hours (poster session)"
     specialsubmission: true
   Pre-Symposium and Affiliated Events:
