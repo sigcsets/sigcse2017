@@ -62,4 +62,7 @@ Having all of the dates early in the process, so the site does not have to be re
 
 My suspicion is the next webmaster will throw this entire site out, just as I did the site before me. (It was a PHP site that rendered every page on every view, and included things in a way that I found confusing.) I wish the next webmaster luck, and am happy to help (matt at jadud dot com) if you decide to stay with this format. If you throw it out, I also wish you luck, and highly recommend you think about how to get all of the data in a common format so that you can render the site in as straight-forward a manner as possible.
 
+#### Puzzles
+
+Zach B. does a puzzle hunt every year -- or has for the past several years. He has an SSH key in the site, and I usually just create a directory for him, and let him do his thing. The puzzle hunt is not "integrated" into the site design itself.
 
