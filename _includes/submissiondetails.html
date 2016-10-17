@@ -7,8 +7,10 @@
         {% assign subdate = site.data.cfp.track1.date %}
       {% elsif subtrack == "track2" %}
         {% assign subdate = site.data.cfp.track2.date %}
-        {% elsif subtrack == "track3" %}
-          {% assign subdate = site.data.cfp.track3.date %}
+      {% elsif subtrack == "track3" %}
+        {% assign subdate = site.data.cfp.track3.date %}
+      {% elsif subtrack == "track4" %}
+        {% assign subdate = site.data.cfp.track4.date %}
       {% else %}
         {% assign subdate = "Oops." %}
       {% endif %}
@@ -87,11 +89,16 @@ time: {{subtime}}
               <a href="{{site.data.cfp.track2url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
               {% endcapture %}
               {% assign trackopen = site.data.cfp.track2open %}
-              {% else if subtrack == "track3" %}
-                {% capture tracklink %}
-                <a href="{{site.data.cfp.track3url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
-                {% endcapture %}
-                {% assign trackopen = site.data.cfp.track3open %}
+            {% else if subtrack == "track3" %}
+              {% capture tracklink %}
+              <a href="{{site.data.cfp.track3url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
+              {% endcapture %}
+              {% assign trackopen = site.data.cfp.track3open %}
+            {% else if subtrack == "track4" %}
+              {% capture tracklink %}
+              <a href="{{site.data.cfp.track4url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
+              {% endcapture %}
+              {% assign trackopen = site.data.cfp.track4open %}
             {% else %}
               {% capture tracklink %}
               NA

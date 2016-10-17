@@ -1,11 +1,13 @@
 submissionopen: true
 submissionurl: "https://easychair.org/conferences/?conf=sigcse2017"
-track1open: true
+track1open: false
 track1url: https://easychair.org/conferences/?conf=sigcse2017
 track2open: true
 track2url: https://easychair.org/conferences/?conf=sigcse2017
 track3url: https://easychair.org/conferences/?conf=sigcse2017
 track3open: true
+track4url: https://easychair.org/conferences/?conf=sigcse2017
+track4open: true
 
 # Friday, August 26, 2016
 track1:
@@ -18,9 +20,12 @@ track2:
 track3:
   timestamp: "2016-09-26T00:23:59"
   date: "Monday, September 26, 2016"
-# Possibly pre-symposium...
+# This is the affiliated events deadline
+track4:
+  timestamp: "2016-11-01T00:23:59"
+  date: "Tuesday, November 1, 2016"
 
-presymposiumdates: "Wednesday, March 2nd, 2016"
+presymposiumdates: "Tuesday, March 2nd, 2016"
 presymposiumformurl: "docs/sigcse-pre-symposium-events.docx"
 
 master:
@@ -53,7 +58,7 @@ master:
         include: workshops
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Monday, November 2nd, 2015"
+    notification: "Monday, November 7th, 2016"
     updates:
     cameraready: "Sunday, December 13th (was December 9th)"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+SRC+Deadline&iso=20160926T2359&p1=3399"
@@ -63,16 +68,16 @@ master:
         singular: Student Research Competition
         include: src
 
-  # - time: "23:59 in Pago Pago, American Samoa (UTC-11h)"
-  #   notification: "Monday, October 19th, 2015"
-  #   updates:
-  #   cameraready: "TBA"
-  #   link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2016+Pre-Symposum+Deadline&iso=20150928T235959&p1=1033"
-  #   track: false
-  #   types:
-  #     - plural: Pre-Symposium and Affiliated Events
-  #       singular: Pre-Symposium and Affiliated Event
-  #       include: presymposium
+  - time: "23:59 in Pago Pago, American Samoa (UTC-11h)"
+    notification: "Tuesday, November 15th, 2016"
+    updates:
+    cameraready: "TBA"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+Pre-Symposum+Deadline&iso=20161101T235959&p1=1033"
+    track: track4
+    types:
+      - plural: Pre-Symposium and Affiliated Events
+        singular: Pre-Symposium and Affiliated Event
+        include: presymposium
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Monday, November 28th, 2016"
@@ -140,8 +145,10 @@ details:
     length: "2 hours (poster session)"
     specialsubmission: true
   Pre-Symposium and Affiliated Events:
-    limits: "Request to host event at Convention Center"
-    length: "Varies"
+    limits: "2 pages (including abstract of 250 words)"
+    length: "Morning (8:30-Noon, break 10-10:30 am),
+      Afternoon (1:30-5 pm, break 3-3:30 pm), or
+      All Day (8:30 am-5 pm, lunch, two breaks)"
     specialsubmission: true
 
 notifications:
