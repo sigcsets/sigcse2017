@@ -32,7 +32,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, October 14, 2016"
     updates:
-    cameraready: "Sunday, December 6th (was November 30th)"
+    cameraready: "Sunday, December 11th"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+Paper+Deadline&iso=20160826T2359&p1=3399"
     track: track1
     types:
@@ -43,7 +43,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, October 14, 2016"
     updates:
-    cameraready: "Sunday, December 13th (was December 9th)"
+    cameraready: "Sunday, December 11th"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20161021T2359&p1=3399"
     track: track1
     types:
@@ -60,7 +60,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Monday, November 7th, 2016"
     updates:
-    cameraready: "Sunday, December 13th (was December 9th)"
+    cameraready: "Sunday, December 11th"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+SRC+Deadline&iso=20160926T2359&p1=3399"
     track: track3
     types:
@@ -82,7 +82,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Monday, November 28th, 2016"
     updates:
-    cameraready: "Sunday, December 13th (was December 9th)"
+    cameraready: "Sunday, December 11th"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2016+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20151023T235959&p1=3399"
     track: track2
     types:
@@ -169,6 +169,6 @@ studentResearchCompetition:
 #lightningtalks: "Monday, October 27th, 2014"
 #demos: "Monday, October 27th, 2014"
 
-html: "sigcse-2016-cfp.html"
-pdf: "sigcse-2016-cfp.pdf"
+html: "sigcse-2017-cfp.html"
+pdf: "sigcse-2017-cfp.pdf"
 lastupdate: "July 2, 2014"

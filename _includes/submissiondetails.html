@@ -122,17 +122,20 @@ time: {{subtime}}
           <td> {{subnotification}}</td>
         </tr>
 
-{% comment %}
         <tr>
           <td><b>Camera-Ready Copy </b></td>
-          <td> TBA {% comment %} {{subcameraready}} {% endcomment %}</td>
+          <td> {{subcameraready}}</td>
         </tr>
 
         <tr>
           <td><b>Camera-Ready Instructions</b></td>
-          <td><a href="http://www.sheridanprinting.com/typedept/sigcse2016.htm">@ Sheridan Publishing</a></td>
-        </tr>
+          <td> TBA
+            {% comment %}
+<a href="http://www.sheridanprinting.com/typedept/sigcse2016.htm">@ Sheridan Publishing</a>
 {% endcomment %}
+          </td>
+        </tr>
+
         {% comment %}
         <!--- FIXME: Why did I do this this way? It is probably to avoid
         some kind of duplication between two YAML files. However, it makes things
