@@ -16,7 +16,7 @@ Posters should not be previously published or a previous poster.
 Poster proposal review is not blind.
 
 Graduate or undergraduate students submitting posters may instead wish
-to submit to the [ACM Student Research Competition (SRC)](src.html) held
+to submit to the [ACM Student Research Competition (SRC)](studentresearchcompetition.html) held
 at SIGCSE {{site.data.main.year}}. Like normal posters, SRC posters are
 displayed at the conference, but the top poster authors also present
 their work and may win prizes and proceed to the international ACM
