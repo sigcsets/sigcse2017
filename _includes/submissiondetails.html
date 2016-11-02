@@ -7,8 +7,10 @@
         {% assign subdate = site.data.cfp.track1.date %}
       {% elsif subtrack == "track2" %}
         {% assign subdate = site.data.cfp.track2.date %}
-        {% elsif subtrack == "track3" %}
-          {% assign subdate = site.data.cfp.track3.date %}
+      {% elsif subtrack == "track3" %}
+        {% assign subdate = site.data.cfp.track3.date %}
+      {% elsif subtrack == "track4" %}
+        {% assign subdate = site.data.cfp.track4.date %}
       {% else %}
         {% assign subdate = "Oops." %}
       {% endif %}
@@ -87,11 +89,16 @@ time: {{subtime}}
               <a href="{{site.data.cfp.track2url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
               {% endcapture %}
               {% assign trackopen = site.data.cfp.track2open %}
-              {% else if subtrack == "track3" %}
-                {% capture tracklink %}
-                <a href="{{site.data.cfp.track3url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
-                {% endcapture %}
-                {% assign trackopen = site.data.cfp.track3open %}
+            {% else if subtrack == "track3" %}
+              {% capture tracklink %}
+              <a href="{{site.data.cfp.track3url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
+              {% endcapture %}
+              {% assign trackopen = site.data.cfp.track3open %}
+            {% else if subtrack == "track4" %}
+              {% capture tracklink %}
+              <a href="{{site.data.cfp.track4url}}">{{site.data.main.upper}} {{site.data.main.year}} Easy Chair </a>
+              {% endcapture %}
+              {% assign trackopen = site.data.cfp.track4open %}
             {% else %}
               {% capture tracklink %}
               NA
@@ -115,17 +122,20 @@ time: {{subtime}}
           <td> {{subnotification}}</td>
         </tr>
 
-{% comment %}
         <tr>
           <td><b>Camera-Ready Copy </b></td>
-          <td> TBA {% comment %} {{subcameraready}} {% endcomment %}</td>
+          <td> {{subcameraready}}</td>
         </tr>
 
         <tr>
           <td><b>Camera-Ready Instructions</b></td>
-          <td><a href="http://www.sheridanprinting.com/typedept/sigcse2016.htm">@ Sheridan Publishing</a></td>
-        </tr>
+          <td> TBA
+            {% comment %}
+<a href="http://www.sheridanprinting.com/typedept/sigcse2016.htm">@ Sheridan Publishing</a>
 {% endcomment %}
+          </td>
+        </tr>
+
         {% comment %}
         <!--- FIXME: Why did I do this this way? It is probably to avoid
         some kind of duplication between two YAML files. However, it makes things

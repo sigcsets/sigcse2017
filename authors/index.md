@@ -6,7 +6,6 @@ showTitle: true
 We have broken out submission guidelines by type. There are many ways to share the excellent work you are doing, and we would encourage you to consider all of them as you think about what would make the best vehicle for sharing your efforts with the larger community.
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-3">
     <div class="table-responsive">
       <table class="table">
           <tbody>
@@ -20,6 +19,8 @@ We have broken out submission guidelines by type. There are many ways to share t
             {{site.data.cfp.track2.date}}
         {% elsif submission.track == "track3" %}
             {{site.data.cfp.track3.date}}
+        {% elsif submission.track == "track4" %}
+            {{site.data.cfp.track4.date}}
         {% else %}
            Oops
         {% endif %}
@@ -33,10 +34,13 @@ We have broken out submission guidelines by type. There are many ways to share t
         </td>
       </tr>
     {% endfor %}
+      <tr>
+        <td><b>Sunday December 11, 2016</b></td>
+        <td>Camera-ready submissions due to publisher</td>
+      </tr>
         </tbody>
       </table>
     </div>
-  </div>
   <div class="col-md-12 well">
       Dates for <b>notification of acceptance</b> and <b>camera-ready submission</b> can be found on the detail page for each specific submission type.
   </div>
