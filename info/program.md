@@ -20,9 +20,9 @@ conference.
 
 The 2017 SIGCSE Award for Outstanding Contribution to Computer Science
 Education has been awarded to **Gail Chapman, University of California**,
-Los Angeles, USA.  Dr. Chapman will give the second conference keynote on
+Los Angeles, USA.  She will give the second conference keynote on
 Friday March 10.
 
 The 2017 SIGCSE Award for Lifetime Service to the Computer Science Education
 Community has been awarded to **Mats Daniels, Uppsala University**, Sweden.
-Dr. Daniels will give a talk at the first timer's lunch on Thursday March 9.
+He will give a talk at the first timer's lunch on Thursday March 9.
