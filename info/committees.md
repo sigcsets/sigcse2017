@@ -31,13 +31,21 @@ title: Committees
       <td width = "20%" > <b> Name: </b> </td>
       <td> {{memb.name}} </td>
     </tr>
+    {% if memb.inst %}
     <tr>
-      <td> <b> Institution: </b> </td>
+      <td> <b> Institution:&nbsp; </b> </td>
       <td> {{memb.inst}} </td>
     </tr>
+    {% endif %}
+    {% if memb.email %}
+    <tr>
+      <td> <b> E-mail: </b> </td>
+      <td> <a href="mailto:{{memb.email}}">{{memb.email}}</a> </td>
+    </tr>
+    {% endif %}
 
   </table>
-</div>  
+</div>
   {% endfor %}
 </div> <!-- row -->
 {% endfor %}

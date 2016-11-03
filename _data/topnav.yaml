@@ -1,4 +1,4 @@
-- name: CFP
+- name: For Authors
   subheads:
   - name: Call for Participation
     link: /info/cfp.html
@@ -26,7 +26,7 @@
     link: /authors/demos.html
   - name: Affiliated Events
     link: /authors/pre-symposiumandaffiliatedevents.html
-- name: Reviewers
+- name: For Reviewers
   subheads:
     - name: Review Process
       link: /reviewers/review-process.html
@@ -36,8 +36,10 @@
       link: /reviewers/apc-responsibilities.html
     - name: Reviewer Signup
       link: /reviewers/signup.html
-- name: Attendees
+- name: For Attendees
   subheads:
+    - name: Program
+      link: /info/program.html
     - name: Rates and Registration
       link: /attendees/index.html
     # - name: Online Registration
@@ -60,10 +62,10 @@
   subheads:
     - name: Prospectus
       link: /info/supporters.html
-- name: Program
-  subheads:
-    - name: Coming Soon
-      link: "#"
+#- name: Program
+#  subheads:
+#    - name: Coming Soon
+#      link: "#"
   # - name: Keynote and Award Speakers
   #   link: \#
   # - name: Overview
@@ -90,13 +92,13 @@
   #     link: \#
   # - name: Information for presenters
   #   link: \#
-- name: Committees
+- name: Committee
   subheads:
     - name: Symposium Co-Chairs
       link: /info/committees.html#SymposiumCo-Chairs
     - name: Program Co-Chairs
       link: /info/committees.html#ProgramCo-Chairs
-    - name: Program Committe
-      link: /info/committees.html#ProgramCommittee
     - name: Organizing Committee
       link: /info/committees.html#OrganizingCommittee
+    - name: Associate Program Chairs
+      link: /info/committees.html#ProgramCommittee

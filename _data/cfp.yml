@@ -58,7 +58,7 @@ master:
         include: workshops
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Monday, November 7th, 2016"
+    notification: "Monday, November 28th, 2016"
     updates:
     cameraready: "Sunday, December 11th"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+SRC+Deadline&iso=20160926T2359&p1=3399"
