@@ -7,24 +7,26 @@ This year, we are at the [Washington State Convention Center (WSCC)](http://www.
 
 This page will contain everything you need for registration, reserving a room, obtaining visas, and finding a roommate. For now, we want to make sure that rate information is available early to attendees.
 
-<!--
 <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
 {% callout info %}
 <p>Everything you need for:
   <ul>
     <li> <a href="#registering">registering for SIGCSE</a>, </li>
     <li> <a href="#registrationrates">this year's rates</a>, </li>
+    <!--
     <li> <a href="travelgrants.html">applying for a travel grant from SIGCSE,</a></li>
+    -->
     <li> <a href="#reserving">reserving a room</a>,</li>
+    <!--
     <li> <a href="#roommatedb">finding a roommate in the roommate database</a>,</li>
     <li> figuring out <a href="#travel">how to travel to {{site.data.main.conferenceCity}}</a>, and</li>
     <li> <a href="#stufftodo">what to do once you are there</a></li>
+    -->
   </ul>
   is on this page.
 </p>
 {% endcallout %}
 </div>
--->
 
 <a name="registering"></a>
 
@@ -202,44 +204,49 @@ Note that it could take some time for your request to be honored; leave plenty o
 
 <a name="reserving"></a>
 
-<!--
-
 ## Reserving a Room
 
+There are four conference hotels with special conference room rates.  All
+four are close to the Washington State Convention Center and are within
+easy walking distance of each other.  The primary conference hotel is the
+**Sheraton Seattle**.
 
-<div class="row">
-  <div class="col-md-8">
-<p>
-We are at the {{site.data.main.conferenceHotel}} in {{site.data.main.conferenceCity}}. You can <a href="{{site.data.main.bookingURL}}">reserve your room now</a>; don't wait!
++   **<a href="http://www.sheratonseattle.com/">Sheraton Seattle</a>** (<a href="https://www.starwoodmeeting.com/events/start.action?id=1609202098&key=14E8C405">reservations</a>)<br/>
+    Room rate: $185/night + tax<br/>
+    Deadline: February 7, 2017<br/>
+    Address: 1400 6th Ave, Seattle, WA 98101<br/>
+    Phone: <a href="tel:+1-206-621-9000">+1-206-621-9000</a>
 
-</p>
++   **<a href="http://seattle.grand.hyatt.com/">Grand Hyatt Seattle</a>** (<a href="https://aws.passkey.com/go/ACMSIGSCE2017GrandHyatt">reservations</a>)<br/>
+    Room rate: $185/night + tax<br/>
+    Deadline: February 7, 2017<br/>
+    Address: 721 Pine St, Seattle, WA 98101<br/>
+    Phone: <a href="tel:+1-206-774-1234">+1-206-774-1234</a>
 
-<p><b>The conference rate is {{site.data.main.hotelrate}} plus tax per night.</b></p>
++   **<a href="http://olive8.hyatt.com/">Hyatt at Olive 8</a>** (<a href="https://aws.passkey.com/go/ACMSIGSCE2017Olive8">reservations</a>)<br/>
+    Room rate: $185/night + tax<br/>
+    Deadline: February 7, 2017<br/>
+    Address: 1635 8th Ave, Seattle, WA 98101<br/>
+    Phone: <a href="tel:+1-206-695-1234">+1-206-695-1234</a>
 
++   **<a href="http://roosevelthotel.com/">The Roosevelt Hotel</a>** (<a href="https://reservations.travelclick.com/97459?hotelId=97459&groupid=1489846#/guestsandrooms">reservations</a>)<br/>
+    Room rate: $159/night + tax<br/>
+    Deadline: February 7, 2017<br/>
+    Address: 1531 7th Ave, Seattle, WA 98101<br/>
+    Phone: <a href="tel:+1-206-621-1200">+1-206-621-1200</a>
 
-<ul>
-<li> <b>Sheraton Memphis Downtown Hotel</b> (<a href="{{site.data.main.bookingURL}}">reservations</a>)
-  <br>
-  Deadline: {{site.data.main.hotelguaranteedate}}
-  <br>
-  250 North Main Street, Memphis,Tennessee 38103
-  <br>
-  Phone: <a href="tel:+1-901-527-7300">+1-901-527-7300</a>
-</li>
-</ul>
+<!--
 
 <p>So <a href="{{site.data.main.bookingURL}}">go reserve your room now</a>. Conference room rates are guaranteed until {{site.data.main.hotelguaranteedate}}.  Please make your reservations before that date to ensure the SIGCSE rate.</p>
 
-<p>If you encounter any difficulties in booking, don't be afraid to use the phone; the Sheraton staff will be glad to assist you. </p>
+<p>If you encounter any difficulties in booking, don't be afraid to use the phone. The Sheraton staff will be glad to assist you. </p>
 
-<p>The hotel requires a credit card to hold reservations.  Your credit card will not be charged until your stay.  If you need to cancel your reservation, 24 hours’ notice is required.</p>
 
 </div>
   <div class="col-md-2 col-md-offset-1 text-center">
     <img src="{{site.base}}/images/memphis/memphis-38-200.png" width="200" class="image-responsive" ></img>
   </div>
 </div>
-
 
 
 ## *Probably* Needed: Overflow Options

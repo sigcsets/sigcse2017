@@ -41,7 +41,9 @@
     - name: Program
       link: /info/program.html
     - name: Rates and Registration
-      link: /attendees/index.html
+      link: /attendees/index.html\#registering
+    - name: Hotels
+      link: /attendees/index.html\#reserving
     # - name: Online Registration
     #   link: \#
     - name: Student Volunteers
