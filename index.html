@@ -18,14 +18,32 @@ layout: default
 </p>
 
   <div class = "row">
-    <div class = "col-md-8">
-      <h4>News</h4>
-      {% include front-news.html %}
-    </div>
-    <div class = "col-md-4">
-    </div>
-  </div>
-  </div>
+    <h3>Sponsors</h3>
+    <p>Our incredible sponsors help power the SIGCSE TS and our work as CS educators.</p>
+    
+
+    {% assign rows = 2 %}
+    {% assign cellstyle = "col-sm-8 col-sm-offset-1" %}
+
+    {% for rank in site.data.sponsors %}
+      <h4>{{rank[0]}}</h4>
+      {% for sponsor in rank[1] %}
+        <div class = "text-center">
+          <p style = "margin-bottom:-5px;">
+            {{sponsor.name}}
+          </p>
+          <p style = "margin-bottom:30px;">
+            <a href="{{sponsor.link}}">
+              <img src = "/images/sponsors/{{sponsor.image}}" alt = "{{sponsor.name}}">
+            </a>
+            </p>
+        </div>
+      {% endfor %}   <!-- End sponsor {{sponsor.name}} -->
+    {% endfor %} <!-- End rank {{rank[0]}} --> 
+        
+  </div> <!-- End row for sponsors -->
+  
+  </div> <!-- End LH side of page -->
 
   <div class = "col-sm-5 col-sm-offset-1">
     <div class = "row">
@@ -56,11 +74,24 @@ layout: default
     <div class = "alert alert-success" style="margin-top: 0.5em">
       <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span> <a href = "{{ '/docs/sigcse2017-draft-program.pdf' | prepend: site.baseurl }}">Preliminary program (PDF)</a>
     </div>
-      <img
-        src = "{{ '/images/sigcse2017-logo-300x200.png' | prepend: site.baseurl }}"
-        width = "300"
-        height  = "200"
-        alt = "The Amazing SIGCSE 2017 Logo, in blueish and greenish.">
+
+
+  <div class = "row">
+    <div class = "col-md-8">
+      <h4>News</h4>
+      {% include front-news.html %}
+    </div>
+    <div class = "col-md-4">
+    </div>
+  </div>
+  
+  <img
+    src = "{{ '/images/sigcse2017-logo-300x200.png' | prepend: site.baseurl }}"
+    width = "300"
+    height  = "200"
+    alt = "The Amazing SIGCSE 2017 Logo, in blueish and greenish.">
+    
   </div>
 
+  
 </div>
