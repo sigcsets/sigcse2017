@@ -173,6 +173,60 @@
     email: sigcse2017-src@cs.vt.edu
 
 
+- name: International Committee Members
+  members:
+    - name: "Craig Anslow"
+      inst: "Middlesex University, United Kingdom"
+      email: "c.anslow@mdx.ac.uk"
+
+    - name: "Karen Bradshaw"
+      inst: "Rhodes University, South Africa"
+      email: "k.bradshaw@ru.ac.za"
+
+    - name: "Paul Denny"
+      inst: "The University of Auckland, New Zealand"
+      email: "paul@cs.auckland.ac.nz"
+
+    - name: "Daniel Fokum"
+      inst: "The University of the West Indies, Jamaica"
+      email: "daniel.fokum@uwimona.edu.jm"
+
+    - name: "Mehdi Jazayeri"
+      inst: "University of Italian Switzerland, Switzerland"
+      email: "mehdi.jazayeri@usi.ch"
+
+    - name: "Carsten Kleiner"
+      inst: "Hochschule Hannover, Germany"
+      email: "carsten.kleiner@hs-hannover.de"
+
+    - name: "Tsunenori Mine"
+      inst: "Kyushu University, Japan"
+      email: "mine@ait.kyushu-u.ac.jp"
+
+    - name: "Kazushi Ohya"
+      inst: "Tsurumi University, Japan"
+      email: "oya-k@tsurumi-u.ac.jp"
+
+    - name: "Marco Silva"
+      inst: "Federal University of Technology, Brazil"
+      email: "magsilva@utfpr.edu.br"
+
+    - name: "Ben Stephenson"
+      inst: "University of Calgary, Canada"
+      email: "bdstephe@ucalgary.ca"
+
+    - name: "Claudia Szabo"
+      inst: "The University of Adelaide, Australia"
+      email: "claudia.szabo@adelaide.edu.au"
+
+    - name: "Gary Wong"
+      inst: "The University of Hong Kong, Hong Kong"
+      email: "wongkwg@hku.hk"
+
+    - name: "Ming Zhang"
+      inst: "Peking University, China"
+      email: "mzhang_cs@pku.edu.cn"
+      
 - name: Associate Program Chairs
   members:
   - name: Eric Aaron
@@ -378,3 +432,5 @@
   - name: Jian Zhang
     inst: Texas Woman's University
     #email: jzhang@twu.edu
+
+    

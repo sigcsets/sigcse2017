@@ -41,9 +41,9 @@
     - name: Program
       link: /info/program.html
     - name: Rates and Registration
-      link: /attendees/index.html\#registering
+      link: /attendees/index.html#registration-rates
     - name: Hotels
-      link: /attendees/index.html\#reserving
+      link: /attendees/index.html#reserving-a-room
     # - name: Online Registration
     #   link: \#
     - name: Student Volunteers
@@ -102,5 +102,7 @@
       link: /info/committees.html#ProgramCo-Chairs
     - name: Organizing Committee
       link: /info/committees.html#OrganizingCommittee
+    - name: International Committee
+      link: /info/committees.html#InternationalCommitteeMembers
     - name: Associate Program Chairs
       link: /info/committees.html#ProgramCommittee
