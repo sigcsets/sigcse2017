@@ -27,3 +27,7 @@ deadlines:
   - items:
       - Pre-Symposium and Affiliated Event
     date: "Tuesday, November 1, 2016"
+
+registration:
+  isopen: true
+  url: http://www.regonline.com/sigcse2017

@@ -40,12 +40,16 @@
   subheads:
     - name: Program
       link: /info/program.html
+    - name: Venue
+      link: /attendees/index.html
     - name: Rates and Registration
-      link: /attendees/index.html#registration-rates
+      link: /attendees/index.html#registering
+    - name: Online Registration
+      link: http://www.regonline.com/sigcse2017
     - name: Hotels
       link: /attendees/index.html#reserving-a-room
-    # - name: Online Registration
-    #   link: \#
+    - name: Roommate Database
+      link: /attendees/index.html#roommatedb
     - name: Student Volunteers
       link: /info/studentvolunteers.html
     # - name: Venue

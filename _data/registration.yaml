@@ -10,9 +10,9 @@ improved:
   #- cat: "CLOSED"
   #  alert: "alert alert-warning"
   #  date: "Closed from February 24th through March 1st, while registration packets are prepared"
-  #- cat: "On-site"
-  #  members: 385
-  #  nonmembers: 460
+  - cat: "On-site"
+    members: 425
+    nonmembers: 500
   #  # rates: "$385 for SIGCSE members, $460 for non-members"
   #  date: "Available beginning Wednesday, March 2nd at 3PM"
 other:
@@ -22,8 +22,8 @@ other:
     rates: "$90 for early, $120 for late or onsite"
   - category: "Students (at any time)"
     rates:  "$70 for ACM/SIGCSE members, $85 for non-members"
-  #- category: "Workshops"
-  #  rates: "$75 early; $90 late; $100 onsite"
+  - category: "Workshops"
+    rates: "$75 early; $90 late; $100 onsite"
 
 # Early registration rates --  Apply through February 2.
 #Late registration rates -- Apply from February 3, through February 23.
