@@ -74,12 +74,10 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 ### Registration Rates
 
 <div class = "row" style = "font-weight: bold;">
-  <div class = "col-sm-10 col-sm-offset-1">
     <div class = "col-sm-2"> When </div>
-    <!-- <div class = "col-sm-6"> Dates </div> -->
+    <div class = "col-sm-6"> Dates </div>
     <div class = "col-sm-2"> Members </div>
     <div class = "col-sm-2"> Non-Members </div>
-  </div>
 </div>
 {% for row in site.data.registration.improved %}
   {% if row.alert %}
@@ -90,12 +88,10 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
   </div>
   {% else %}
   <div class = "row">
-    <div class = "col-sm-10 col-sm-offset-1">
       <div class = "col-sm-2"> {{row.cat}} </div>
-      <!-- <div class = "col-sm-6"> {{row.date}} </div> -->
+      <div class = "col-sm-6"> {{row.date}} </div>
       <div class = "col-sm-2"> ${{row.members}} </div>
       <div class = "col-sm-2"> ${{row.nonmembers}} </div>
-    </div>
   </div>
   {% endif %}
 {% endfor %}

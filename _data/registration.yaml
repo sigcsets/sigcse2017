@@ -2,19 +2,18 @@ improved:
   - cat: "Early"
     members: 325
     nonmembers: 410
-    date: "Apply through February 2nd"
+    date: "Apply through February 8"
   - cat: "Late"
     members: 375
     nonmembers: 460
-    date: "Apply from February 3rd through February 23rd"
-  #- cat: "CLOSED"
-  #  alert: "alert alert-warning"
-  #  date: "Closed from February 24th through March 1st, while registration packets are prepared"
+    date: "Apply from February 9 through February 28"
+  - cat: "CLOSED"
+    alert: "alert alert-warning"
+    date: "Closed from March 1 through March 7, while registration packets are prepared"
   - cat: "On-site"
     members: 425
     nonmembers: 500
-  #  # rates: "$385 for SIGCSE members, $460 for non-members"
-  #  date: "Available beginning Wednesday, March 2nd at 3PM"
+    date: "Available beginning Wednesday, March 8 at 3PM"
 other:
   - category: "K-12 two-day (Friday/Saturday)"
     rates: "$160 for early, $195 for late or onsite"
