@@ -1,0 +1,261 @@
+- name: "POGIL in CS: Small Steps & Giant Leaps"
+  date: Wednesday, March 8, 8:30am - 5:00pm
+  #room: "2503B"
+  cost: Free
+  max: 20
+  blurb: |
+    This event is for instructors (at any level) who use POGIL, guided inquiry,
+    or related active learning approaches in their classrooms, or who have
+    previously attended an introductory POGIL workshop. (There is a separate
+    Introduction to POGIL workshop at SIGCSE 2017, and regional 3-day
+    workshops every summer). The event will run from 8:30am to 5:00pm and
+    consist of 4 sessions, with breaks and lunch. We will develop and post a
+    detailed schedule based on the participants and their interests and
+    priorities. Our goal is to help everyone share experiences and ideas, and
+    to continue to grow the community of colleagues and collaborators. Thus,
+    the event will include lightning talks, focus groups, workshop sessions,
+    and time to review and discuss draft activities.
+
+    **Laptop:** Optional
+  info: http://cspogil.org/2017-03+SIGCSE+Pre-Conf+Event
+  register: http://cspogil.org/2017-03+SIGCSE+Pre-Conf+Event
+  # register: "To register for this event, please write <a  href='mailto:ashaffer@usna.edu'>ashaffer@usna.edu</a>"
+  organizers:
+    - name:  Clif Kussmaul
+      email: clif@kussmaul.org
+    - name: Helen H. Hu
+      email: hhu@westminstercollege.edu
+    - name: Chris Mayfield
+      email: mayfiecs@jmu.edu
+
+- name: Managing the Early Academic Career for Women Faculty in Undergraduate Computing Programs
+  date: Wednesday, March 8, 8:30am-5:00pm
+  #room: "2502B"
+  cost: Free
+  max: 30
+  blurb: |
+    The goal of this workshop is to provide critical mentoring information
+    and advice for women instructors, pre-tenure faculty and graduate students
+    (in their final year) in Computer Science and Engineering who are early in
+    their careers or interested in an academic career. Speakers for the event
+    are experienced, senior faculty members with extensive practical knowledge
+    and mentoring involvement. Topics include mentoring, research strategies,
+    getting what you need, networking strategies, teaching survival tactics,
+    promotion and tenure strategies, and time management, with plenty of time
+    for questions and discussion. The day-long workshop, to be held on
+    Wednesday, March 8, will be co-located with the SIGCSE 2017 conference in
+    Seattle.
+  info: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
+  register: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
+  organizers:
+    - name: Sheila Castaneda
+      email: cast@clarke.edu
+    - name: Susan Rodger
+      email: rodger@cs.duke.edu
+
+- name: Managing the Mid Academic Career for Women Faculty in Undergraduate Computing Programs
+  date: Wednesday, March 8, 8:30am-5:00pm
+  #room: "2505A"
+  cost: Free
+  max: 30
+  blurb: |
+    The goal of this workshop is to provide critical mentoring information and
+    advice for mid-career (i.e. associate professor) women in Computer Science
+    and Engineering who are interested in advancing their career. Topics
+    include leadership, promotion, managing up/down, mentoring, building
+    programs, leading initiatives, academic negotiation, effective teaching
+    and class management, with plenty of time for questions and discussion.
+    The day-long workshop, to be held on Wednesday, March 8, will be
+    co-located with the SIGCSE 2017 conference in Seattle.
+  info: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
+  register: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
+  organizers:
+    - name: Sheila Castaneda
+      email: cast@clarke.edu
+    - name: Susan Rodger
+      email: rodger@cs.duke.edu
+
+- name: Strategies for Integrating Driverless Cars into the Computing Curricula
+  date: Wednesday, March 8, 1:00pm-5:00pm
+  #room: "2505B"
+  cost: Free
+  max: No Max
+  blurb: |
+    Driverless cars are a feat of engineering and computer science. While not
+    yet a commercial reality, this topic is not only popular with
+    students (and faculty) but also provides a rich environment to explore a
+    plethora of key computer science topics. These topics range from the
+    algorithmically technical (e.g. obstacle recognition, inter-vehicle
+    communication), to those of algorithmic fairness (e.g. load balancing
+    versus priority), to those of professional and computational ethics (e.g.
+    an unavoidable Sophie’s Choice).
+
+    This workshop aims to bring together experts in driverless cars,
+    algorithms, ethics and algorithmic fairness with a community of interested
+    CS educators to discuss and work through topics, recommended approaches
+    and even educational modules/exercises in driverless cars for the
+    undergraduate computing curricula.
+
+    This workshop is sponsored by ACM SIGCAS (Special Interest Group on
+    Computers and Society) and is free and open to the SIGCSE community.
+  info: http://www.sigcas.org/
+  register: http://www.sigcas.org/
+  organizers:
+    - name: Michael Goldweber
+      email: mikeyg@xavier.edu
+    - name: Karla Carter
+      email: karla.carter@bellevue.edu
+
+- name: Aligning to the ACM Cybersecurity-infused Computer Science Transfer Curriculum
+  date: Wednesday, March 8, 1:30pm-5:00pm
+  #room: "2502A"
+  cost: Free
+  max: No Max
+  blurb: |
+    This event, led by the ACM CCECC (Committee for Computing Education in
+    Community Colleges), will engage participants in exploring and using ACM’s
+    curricular guidance for associate-degree transfer programs in Computer
+    Science in programs at their own colleges.
+
+    In 2015, under the auspices of the ACM Education Board the CCECC began
+    updating the ACM Computing Curricula 2009: Guidelines for Associate-Degree
+    Transfer Curriculum in Computer Science with inclusion of contemporary
+    cybersecurity concepts. To this end, the CCECC established a task force of
+    community college educators to review the ACM/IEEE Computer Science
+    Curricula 2013 (CS2013) and identify foundational material in CS2013 that
+    is appropriate for the first two years of a computer science baccalaureate
+    degree.  To further inform the guidance, the CCECC administered surveys to
+    a global audience of computer science educators to solicit input related
+    to CS2013 knowledge areas (KAs) and knowledge units (KUs) and on
+    cybersecurity topics which are appropriate for associate-degree computer
+    science transfer programs.  The guidance has been through two rounds of
+    public review and comment, and will be in near-final form by SIGCSE 2017.
+
+    During this affiliated event, participants will receive an overview of the
+    ACM guidelines and will engage directly in exploring how the guidelines
+    can be used at their own college for program creation, review,
+    articulation, and other purposes, by aligning their computer science
+    program to the ACM guidelines and by using an online correlation tool
+    developed by the CCECC.
+
+    **Laptop:** Recommended
+  info: http://ccecc.acm.org/
+  register: http://ccecc.acm.org/
+  organizers:
+    - name: Elizabeth K. Hawthorne
+      email: hawthorne@ucc.edu
+    - name: Cara Tang
+      email: cara.tang@pcc.edu
+    - name: Cindy S. Tucker
+      email: cindy.tucker@kctcs.edu
+    - name: Christian Servin
+      email: cservin1@epcc.edu
+
+- name: Making K-12 Computer Science Accessible
+  date: Wednesday, March 8, 8:30am-5:00pm
+  #room: "2504A"
+  cost: Free
+  max: "No Max"
+  where: "TBD"
+  blurb: |
+    As we move forward with CS for All, it’s important to ensure that all
+    students, including students with disabilities have access to K-12
+    computing education. AccessCS10K works to increase the accessibility
+    of K-12 computing education to ensure that students with disabilities can
+    participate in computing courses. Many of the programming tools, curricula,
+    and books that are available for teaching K-12 computing courses are
+    inaccessible to many students with disabilities. This workshop aims to
+    bring together individuals who are developing programming tools,
+    curricula, books, and other materials with accessibility experts for
+    interactive discussion about improving the accessibility of these
+    materials.
+  info: https://catalyst.uw.edu/webq/survey/blaser/316570
+  register: https://catalyst.uw.edu/webq/survey/blaser/316570
+  organizers:
+    - name: Andreas Stefik
+      email: stefika@gmail.com
+    - name: Richard Ladner
+      email: ladner@cs.washington.edu
+    - name: Brianna Blaser
+      email: blaser@uw.edu
+
+- name: POSSE Roundup – Student Participation in Humanitarian Open Source Software
+  date: Wednesday, March 8, 8:30pm-5:30pm
+  #room: "2503A"
+  cost: Free
+  max: 30
+  blurb: |
+    POSSE, the Professors Open Source Software Experience, prepares instructors
+    to guide student participation in Humanitarian Free and Open Source
+    Software (HFOSS) projects. This POSSE Roundup is a workshop for
+    instructors who have previously attended POSSE. It will provide an
+    opportunity to share experiences and discuss challenges related to student
+    participation in HFOSS. Breakout sessions will provide time for
+    participants to share and work on HFOSS learning activities. The workshop
+    structure of the day will emphasize active participation of attendees.
+
+    **Laptop:** Required
+  info: http://foss2serve.org/index.php/SIGCSE_2017_POSSE_Roundup
+  register: http://foss2serve.org/index.php/SIGCSE_2017_POSSE_Roundup
+  organizers:
+    - name: Gregory Hislop
+      email: hislop@drexel.edu
+    - name: Clif Kussmaul
+      email: clifkussmaul@gmail.com
+    - name: Heidi Ellis
+      email: ellis@wne.edu
+    - name: Stoney Jackson
+      email: stoney.jackson@wne.edu
+    - name: Lori Postner
+      email: lori.postner@ncc.edu
+    - name: Darci Burdge
+      email: darci.burdge@ncc.edu
+
+- name: NSF UP CS Ed Research Event for Emerging CS Education Researchers at SIGCSE
+  date: Wednesday, March 8, 1:30pm-5:00pm
+  #room: "2503B"
+  cost: Free
+  max: 40
+  blurb: |
+    This NSF-funded SIGCSE 2017 pre-symposium event will provide an opportunity
+    for emerging and aspiring CS education researchers to learn the elements
+    of different types of successful computing education research and to
+    obtain feedback on their proposed research designs. The SIGCSE event will
+    invite education and computer science education researchers, individually
+    and jointly, from various institutions to discuss either research that has
+    been conducted or research that is being proposed. The event will assist
+    proposers of computing education research in forming well identified
+    education research questions and selecting appropriate research designs
+    as described in [Guidelines 2013]. The event contents will be guided by
+    the discussions at the ICER UP CS Ed Workshop we organized in
+    September 2016 in Melbourne, Australia. That workshop discussed example CS
+    education projects that would be used in this pre-symposium event to help
+    guide emerging and aspiring researchers.
+
+    This event is funded through NSF grant IUSE-1646691. The attendees for the
+    pre-symposium event will be provided with dinner after the symposium and
+    lodging for one night.
+  info: TBA
+  register: TBA
+  organizers:
+    - name: Eileen T. Kraemer
+      email: etkraem@clemson.edu
+    - name: Murali Sitaraman
+      email: murali@clemson.edu
+    - name: Russ Marion
+      email: marion2@clemson.edu
+
+- name: ""
+  date: ""
+  cost: ""
+  max: ""
+  where: "TBD"
+  blurb: |
+    ok, here's some markdown.
+  info: ""
+  register: ""
+  organizers:
+    - name: ""
+      email: ""
+    - name: ""
+      email: ""

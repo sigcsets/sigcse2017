@@ -56,12 +56,14 @@
                   <ul class = "dropdown-menu">
                     {% for subi in item.subheads %}
                     <!-- {{subi}} -->
-                    <li>
-                      <a href="{{ subi.link | prepend: site.baseurl }}">
-                          {{subi.name}}
-                      </a>
-                      </li>
-
+                      <li>
+                        <a href="{{ subi.link | prepend: site.baseurl }}">
+                            {{subi.name}}
+                        </a>
+                        </li>
+                      {% if subi.divider %}
+                        <li class="divider"></li>
+                      {% endif %}
                     {% endfor %}
                   </ul>
               </li> <!-- internal dropdown -->
@@ -72,6 +74,9 @@
                     {{item.name}}
                 </a>
                 </li>
+            {% endif %}
+            {% if item.divider %}
+              <li class="divider"></li>
             {% endif %}
           {% endfor %}
           </ul>

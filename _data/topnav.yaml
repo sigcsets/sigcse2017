@@ -38,8 +38,6 @@
       link: /reviewers/signup.html
 - name: For Attendees
   subheads:
-    - name: Program
-      link: /info/program.html
     - name: Venue
       link: /attendees/index.html
     - name: Rates and Registration
@@ -50,20 +48,14 @@
       link: /attendees/index.html#reserving-a-room
     - name: Roommate Database
       link: /attendees/index.html#roommatedb
+      divider: true
+    - name: Program
+      link: /info/program.html
+    - name: Pre-Symposium Events
+      link: /attendees/presymposium.html
+      divider: true
     - name: Student Volunteers
       link: /info/studentvolunteers.html
-    # - name: Venue
-    #   subheads:
-    #     - name: To Do / Eat
-    #       link: \#
-    #     - name: Visit Seattle
-    #       link: \#
-    #     - name: Travel & Transport
-    #       link: \#
-    #     - name: Accommodation
-    #       link: \#
-    #     - name: Pre- and Post-Tours
-    #       link: \#
 - name: Sponsors & Exibitors
   subheads:
     - name: Prospectus

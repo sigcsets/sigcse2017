@@ -5,31 +5,12 @@ showTitle: true
 
 There are several exciting pre-symposium events this year; plan your travel so you can get in a day early and take part in these excellent professional development and educational opportunities.
 
-{% assign prev = "" %}
-<div class="row">
-<table>
+<p>
 {% for event in site.data.presymposium %}
-{% if event.name != "" %}
-{% assign inc = event.name | remove: 'presymposium/' | remove: '.html' | remove: " " %}
-{% if event.start != prev %}
-<tr>
-  <td><hr></td>
-  <td> </td>
-</tr>
-{% endif %}
-<tr>
-{% if event.start == prev %}
-<td> </td>
-{% else %}
-  {% assign prev = event.start %}
-  <td>{{event.start}}</td>
-{% endif %}
-  <td><a href="#{{inc | remove: ' '}}">{{event.name}}</a></td>
-</tr>
-{% endif %}
+  {% assign inc = event.name | remove: 'presymposium/' | remove: '.html' | remove: " " %}
+  <a href="#{{inc | remove: ' '}}">{{event.name}}</a><br/>
 {% endfor %}
-</table>
-</div>
+</p>
 
 {% for event in site.data.presymposium %}
 {% if event.name != "" %}
@@ -43,14 +24,15 @@ There are several exciting pre-symposium events this year; plan your travel so y
 
 **Date/Time**: {{event.date}}
 
+{% if event.room %}
 **Where**: {{event.room}}
+{% endif %}
 
 **Cost**: {{event.cost}}
 
 **Max Participants**: {{event.max}}
 
-
-{% include {{event.blurb}} %}
+{{event.blurb}}
 
 {% if event.info != "" %}
 **For additional information**: <a href="{{event.info}}">{{event.info}}</a>
@@ -85,10 +67,12 @@ There are several exciting pre-symposium events this year; plan your travel so y
 
 {% endfor %}
 
+{% comment %}
 ## For More Information
 
 If you are interested in hosting a pre-symposium event, please contact the Pre-Conference Events Liaison (below) to request an application form.  Application forms should be submitted by <b>{{subdate}}</b> for full consideration.
 
-Depending on the number of applications submitted and space availability at the conference hotel, not all events may be selected for inclusion.  
+Depending on the number of applications submitted and space availability at the conference hotel, not all events may be selected for inclusion.
+{% endcomment %}
 
 {% include submission-questions category="Pre-Symposium and Affiliated Events Liaison" %}
