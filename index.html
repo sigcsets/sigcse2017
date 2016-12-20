@@ -38,9 +38,26 @@ layout: default
     </div>
 
     <div class = "row">
-      <h5> Important Dates </h5>
+      <h5> Sponsors </h5>
     </div>
 
+		<table width = "100%" style = "margin-bottom: 20px;">
+			{% for level in site.data.sponsors %}
+			<tr>
+				<td>
+					<b>{{level[0]}}</b>
+				</td>
+				<td> &nbsp; </td>
+				{% for logo in level[1] %}
+					<td>
+						<img src="/images/sponsors/100s/{{logo.image}}">
+					</td>
+				{% endfor %}
+			</tr>
+			{% endfor %}
+		</table>
+
+<!--
     {% for dead in site.data.sigcse.deadlines %}
     <div class = "row">
       <div class = "col-sm-6" style = "font-weight: bold;">
@@ -53,6 +70,8 @@ layout: default
       </div>
     </div>
     {% endfor %}
+-->
+		
     <div class = "alert alert-success" style="margin-top: 0.5em">
       <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span> <a href = "{{ '/docs/sigcse2017-draft-program.pdf' | prepend: site.baseurl }}">Preliminary program (PDF)</a>
     </div>
