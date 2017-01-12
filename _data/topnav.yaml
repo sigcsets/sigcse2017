@@ -56,10 +56,12 @@
       divider: true
     - name: Student Volunteers
       link: /info/studentvolunteers.html
-- name: Sponsors & Exibitors
+- name: Sponsors & Exhibitors
   subheads:
     - name: Prospectus
       link: /info/supporters.html
+    - name: List of Sponsors and Exhibitors
+      link: /info/sponsors-and-exhibitors.html
 #- name: Program
 #  subheads:
 #    - name: Coming Soon
