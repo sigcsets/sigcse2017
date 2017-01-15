@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<img 	src = "/images/speakers/m-d.jpg" 
+			width = "250px"
+			style="float:right; margin-left: 20px;"
+			>
+
+# Mats Daniels
+Associate Professor
+<br>
+Department of Information Technology
+</br>
+Uppsala University
+<br>
+Uppsala
+<br>
+Sweden
+
+<a name = "abstract"> </a>
+
+## The Educator Identity and its Impact
+
+I’m going to address the educator identity from two perspectives. The first is my own perspective, where I will present what my educator identity means to me and what this has led me to devote time and energy on. My vision is that I want to be part of creating learning environments that benefit both the learner as an individual and society in general from many dimensions and purposes. As an educator I want to support our students on a route to become able and conscious graduates who will have a positive impact and be seen as truly professionally competent wherever their career takes them. This sounds hunky-dory, but how can it be achieved? I don’t think there are any silver bullets that will lead to such a setting, but I do believe that knowing more is a way forward. Having no clear way forward was frustrating and this is where involvement in educator communities, like the SIGCSE community, became essential. Giving time and effort to such communities is, in my opinion, rewarding itself manyfold, not least, in my case, for aiding to understand the issues and opportunities involved in pursuing my vision. Developing my identity as educator through being part of the SIGCSE community, with its abundance of role models, has been invaluable for me. I hope my work will be an inspiration for others.
+
+Computing and engineering education research is the other big part in my strive for fulfilling my educator dreams. Or should I say pipe dreams as in the title of my thesis “Developing and Assessing Professional Competencies: a Pipe Dream? Experiences from an Open-Ended Group Project Learning Environment”, which I defended on the day thirty years after I enrolled as a PhD student? No, I don’t see it as a pipe dream even though there are much more to look into and understand regarding education in our field. This research area is the second perspective I want to bring up regarding educator identity, and I will use the research lens to look at the impact we as educators have on our students. My focus will be on the influence educators have on students learning with regard to aspects beyond pure computing skills. I will in the presentation build on work in our research group (UpCERG), which lately has included studying issues related to identity, both students and educators. I especially want to draw attention to the potential impact we as educators have on the “gap” between graduating truly professionally competent persons and merely technically competent persons.
+
+<a name = "bio"> </a>
+
+## Bio
+
+Mats Daniels is Associate Professor and director of undergraduate studies at the Department of Information Technology, Uppsala University, Sweden. Mats is also director of the national centre for pedagogical development in technology education in a societal and student oriented context (CeTUSS, [www.cetuss.se](www.cetuss.se)) and future site coordinator for the ACM ITiCSE conference. He is a founder and member of the Uppsala Computing Education Research Group (UpCERG, [http://www.it.uu.se/research/group/upcerg](http://www.it.uu.se/research/group/upcerg)). He has published over 100 journal and conference papers. His ambition when it comes to education is to find new formats and especially such where the students will experience a holistic learning environment, e.g. in Open Ended Group Projects.
