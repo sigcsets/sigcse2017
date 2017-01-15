@@ -14,10 +14,10 @@ showTitle: true
 
 <div class = "row">
 	<div class = "col-sm-4">
-		Date/Time: {{ws["Date/Time"]}}
+		<b>Date/Time: {{ws["Date/Time"]}}</b>
 	</div>
 	<div class = "col-sm-8">
-		<small><i>{{ws["Presenters"]}}</i></small>
+		<b>{{ws["Presenters"]}}</b>
 	</div>
 </div>
 
