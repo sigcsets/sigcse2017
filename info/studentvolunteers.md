@@ -5,14 +5,15 @@ showTitle: true
 
 Student volunteers are an important part of the SIGCSE Symposium and have been for many years. Each volunteer works for 5-6 hours, helping with various conference management activities. You’ll interact with the conference organizers and presenters and will meet other students from all over the world. More information about the experience, the benefits, and how to sign up are provided below.
 
+<!-- >
 <div class="text-center">
 <h3>Volunteer Registration is Not Yet Open.</h3>
 </div>
-<!--
-<div class="text-center">
-<h3><a href="{{site.data.students.registrationurl}}">Register to Volunteer Here</a></h3>
-</div>
 -->
+
+<div class="text-center">
+<a style="font-size: +200%" href="{{site.data.sigcse.volunteers.url}}">Register to Volunteer Here</a>
+</div>
 
 ## How do I register to volunteer?
 Registering for SIGCSE as a student volunteer is a two step process.

@@ -4,30 +4,30 @@ Platinum:
   #   link: "https://www.google.com/edu/resources/computerscience/"
   - name: "IBM"
     blurb: ""
-    image: ibm-350.png
+    image: ibm-100.png
     link: "https://www.ibm.com/"
   - name: "Intel"
     blurb: ""
-    image: intel-300-cropped.png
+    image: intel-100.png
     link: ""
   - name: "Vocareum, Inc"
     blurb: ""
-    image: vocareum-blue-350.png
+    image: vocareum-blue-100.png
     link: "https://www.vocareum.com/"
     
 Gold:
   - name: "Oracle Academy"
-    image: oracle-academy-144.png
+    image: oracle-120.png
     blurb: "Hardware and Software, Engineered to Work Together"
     link: "http://www.oracle.com/academy/"
     
 Silver:
   - name: ABET
     blurb: "Assuring Quality • Stimulating Innovation"
-    image: abet-new-350.png
+    image: abet-60.png
     link: "http://www.abet.org/"
   - name: "CODIO"
-    image: codio-350.png
+    image: codio-100.png
     link: 
   # - name: GitHub
   #   blurb: "The best place to share code with friends, co-workers, classmates, and complete strangers."
@@ -47,7 +47,7 @@ Silver:
   #   link: "https://piazza.com/"
   - name: "Teradata University Network"
     blurb: "Providing students with hands-on software experiences with the worlds' largest companies."
-    image: teradata-350.png
+    image: teradata-100.png
     link: "http://www.teradatauniversitynetwork.com/"
   # - name: "Turing's Craft"
   #   blurb: "CodeLab: A Powerful Tool for Programming Instruction"
@@ -58,4 +58,4 @@ Silver:
   #   image: zybooks-350.png
   #   link: "http://www.zyante.com/"
     
-Bronze:
+#Bronze:
