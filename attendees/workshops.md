@@ -3,6 +3,32 @@ title: Workshops
 showTitle: true
 ---
 
+<!-- 
+{“Workshop number”=>”106”, “Date/Time”=>”Wednesday March 8, 7 - 10 pm”, “Workshop title”=>”An Introduction to the WEKA Data Mining System”, “Presenters”=>”Ingrid Russell and Zdravko Markov”, “Abstract”=>
+-->
+
+{% for ws in site.data.workshops-2017 %}
+<div class = "row">
+	<h3>{{ws["Workshop title"]}} (#{{ws["Workshop number"]}})</h3>
+</div>
+
+<div class = "row">
+	<div class = "col-sm-4">
+		Date/Time: {{ws["Date/Time"]}}
+	</div>
+	<div class = "col-sm-8">
+		<small><i>{{ws["Presenters"]}}</i></small>
+	</div>
+</div>
+
+<div class = "row">
+	<div class = "col-sm-10 col-sm-offset-1">
+		<p> {{ws["Abstract"]}} </p>
+	</div>
+</div>
+	
+{% endfor %}
+
 {% for ws in site.data.workshops %}
 
 <div class = "row"> <!-- Separating workshops -->
