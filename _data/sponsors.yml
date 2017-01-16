@@ -1,38 +1,35 @@
 Platinum:
-  # - name: "Google, Inc."
-  #   image: google-new-350-cropped.png
-  #   link: "https://www.google.com/edu/resources/computerscience/"
+  - name: "Google, Inc."
+    image: google-200.png
+    link: "https://www.google.com/edu/cs/"
   - name: "IBM"
-    blurb: ""
-    image: ibm-100.png
+    image: ibm-200.png
     link: "https://www.ibm.com/"
   - name: "Intel"
-    blurb: ""
-    image: intel-100.png
-    link: ""
+    image: intel-200.png
+    link: "https://intel.com/"
   - name: "Vocareum, Inc"
-    blurb: ""
-    image: vocareum-blue-100.png
+    image: vocareum-blue-200.png
     link: "https://www.vocareum.com/"
     
 Gold:
   - name: "Oracle Academy"
-    image: oracle-120.png
-    blurb: "Hardware and Software, Engineered to Work Together"
+    image: oracle-200.png
     link: "http://www.oracle.com/academy/"
+  - name: "ZyBooks"
+    image: zybooks-200.png
+    link: "http://www.zyante.com/"
     
 Silver:
   - name: ABET
-    blurb: "Assuring Quality • Stimulating Innovation"
-    image: abet-60.png
+    image: abet-200.png
     link: "http://www.abet.org/"
   - name: "CODIO"
-    image: codio-100.png
-    link: 
-  # - name: GitHub
-  #   blurb: "The best place to share code with friends, co-workers, classmates, and complete strangers."
-  #   image: github-text-350.png
-  #   link: "https://github.com/"
+    image: codio-200.png
+    link: ""
+  - name: GitHub
+    image: github-200.png
+    link: "https://github.com/"
   # - name: Gradescope
   #   blurb: ""
   #   image: gradescope-160107-350.png
@@ -47,15 +44,12 @@ Silver:
   #   link: "https://piazza.com/"
   - name: "Teradata University Network"
     blurb: "Providing students with hands-on software experiences with the worlds' largest companies."
-    image: teradata-100.png
+    image: teradata-200.png
     link: "http://www.teradatauniversitynetwork.com/"
   # - name: "Turing's Craft"
   #   blurb: "CodeLab: A Powerful Tool for Programming Instruction"
   #   image: turingscraft-350.png
   #   link: "http://www.turingscraft.com/"
-  # - name: "ZyBooks"
-  #   blurb: "Animated interactive learning"
-  #   image: zybooks-350.png
-  #   link: "http://www.zyante.com/"
+
     
 #Bronze:

@@ -72,22 +72,44 @@ layout: default
     <h5> Sponsors </h5>
   </div>
 
-		<table width = "100%" style = "margin-bottom: 20px;">
-			{% for level in site.data.sponsors %}
-			<tr>
-				<td>
-					<b>{{level[0]}}</b>
-				</td>
-				<td> &nbsp; </td>
-				{% for logo in level[1] %}
-					<td>
-						<img src="images/sponsors/100s/{{logo.image}}">
-					</td>
-				{% endfor %}
-			</tr>
-			{% endfor %}
-		</table>
+  <div class = "row"> <!-- start sponsors --> 
+    {% for category in site.data.sponsors %}
+      <div class="row">
+          <h3 class="text-center" style="text-shadow: 1px 1px 1px {{site.data.main.gold}};">{{category[0]}} Sponsors</h1>
+      </div>
+      {% assign mod = 0 %}
+      {% assign modulus = 3 %}
+      {% capture span %}{{ 12 | divided_by: modulus }}{% endcapture %}
+      {% capture subone %}{{modulus | minus: 1}}{% endcapture %}
+      <!-- SPAN: {{span}} SUBONE: {{subone}} -->
 
+      {% for sponsor in category[1]  %}
+        {% capture mod %}{{ forloop.index0 | mod: modulus }}{% endcapture %}
+        {% if mod == '0' or forloop.first %}
+          <div class="row">
+        {% endif %}
+
+        <!-- SPONSOR: {{mod}} -->
+        <div class="col-md-{{span}}" >
+      	  <div class="thumbnail" style="border: 0px; padding-top: 40px;">
+            <h5 class="text-center" style="margin-top: -25px; color: black;">{{sponsor.name}}</h3>
+            <a href="{{sponsor.link}}">
+      		    <img alt="{{sponsor.name}}"
+                   src="images/sponsors/200s/{{sponsor.image}}"
+                   />
+            </a>
+            <br/>
+      	  </div>
+        </div>
+
+        {% if mod == subone or forloop.last %}
+        </div> <!-- end row -->
+        {% endif %}
+
+      {% endfor %}
+    {% endfor %}
+  </div> <!-- end sponsors -->
+  
 	</div> <!-- End Left Hand Side -->
 
   <div class = "col-sm-5 col-sm-offset-1"> <!-- Start Right Hand Side -->
@@ -112,12 +134,12 @@ layout: default
       <h4>News</h4>
       {% include front-news.html %}
     </div>
-  </div>
-  </div>
-	<!-- End News -->
+  </div>	<!-- End News -->
+  </div><!-- End Right Hand Side -->
+
 	
 
-  </div> <!-- End Right Hand Side -->
+  </div> 
 
 </div>
 
