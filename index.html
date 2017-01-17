@@ -18,7 +18,7 @@ layout: default
   </p>
 
   <div class = "row">  <!-- Start First Row of Speakers -->
-    <h5>Keynote Speakers</h5>
+    <h5 style="border-bottom: 1px solid #ccc;">Keynote Speakers</h5>
     <div class = "col-sm-3 text-center"> <!-- JW -->
       <b>Jeannette Wing</b>
       <br>
@@ -65,14 +65,10 @@ layout: default
     </div>
   </div> <!-- End Second Row of Speakers -->
 
-  <div class = "row">
-    <h5> Sponsors </h5>
-  </div>
-
-  <div class = "row"> <!-- start sponsors --> 
+  <div class = "row"> <!-- start sponsors -->
     {% for category in site.data.sponsors %}
       <div class="row">
-          <h3 class="text-center" style="text-shadow: 1px 1px 1px;">{{category[0]}} Sponsors</h1>
+          <h3 class="text-center" style="text-shadow: 1px 1px 1px; border-bottom: 1px solid #ccc;">{{category[0]}} Sponsors</h1>
       </div>
       {% assign mod = 0 %}
       {% assign modulus = 3 %}
@@ -95,7 +91,6 @@ layout: default
                    src="images/sponsors/200s/{{sponsor.image}}"
                    />
             </a>
-            <br/>
       	  </div>
         </div>
 
@@ -106,7 +101,7 @@ layout: default
       {% endfor %}
     {% endfor %}
   </div> <!-- end sponsors -->
-  
+
 	</div> <!-- End Left Hand Side -->
 
   <div class = "col-sm-5 col-sm-offset-1"> <!-- Start Right Hand Side -->
@@ -120,11 +115,11 @@ layout: default
     </div>
 
 		<!-- Start PDF Program -->
-    <div class = "alert alert-success" style="margin-top: 0.5em">
+    <div class = "alert alert-success" style="margin-top: 23px">
       <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span> <a href = "{{ '/docs/sigcse2017-draft-program.pdf' | prepend: site.baseurl }}">Preliminary program (PDF)</a>
     </div>
 		<!-- End PDF Program -->
-		
+
 	<!-- Start News -->
   <div class = "row">
     <div class = "col-md-12">
@@ -134,9 +129,9 @@ layout: default
   </div>	<!-- End News -->
   </div><!-- End Right Hand Side -->
 
-	
 
-  </div> 
+
+  </div>
 
 </div>
 
