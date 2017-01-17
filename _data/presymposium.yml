@@ -360,3 +360,37 @@
   organizers:
     - name: Mary Lou Maher
       email: m.maher@uncc.edu
+
+- name: Breakfast with BlueJ and Greenfoot--Introducing Greenfoot 3, BlueJ 4, and Stride
+  date: Friday, March 10, 7:00am-8:30am
+  room: 6B
+  cost: Free
+  max: No Max
+  blurb: |
+    Within the last year, new major versions of both the BlueJ and Greenfoot
+    environments have been released. These versions bring some major
+    enhancements and features to both systems, most importantly the addition
+    of a new language, Stride.
+    Incorporating characteristics from both text-based and block-based systems,
+    Stride offers novel edit interactions with the potential to significantly
+    benefit novice learners of programming. Designed with a transition to
+    text-based systems in mind as a progression path, it provides an ideal
+    entry point or stepping stone from block-based programming systems.
+    In addition to the new editor, both systems offer a range of other
+    enhancements, such as continuous edit-time error checking, improved error
+    message display, GIT support in BlueJ and the ability to develop JavaFX
+    applications.
+    We will introduce and demonstrate the new features of both systems,
+    and (because it’s an early start) provide an informal buffet breakfast
+    for attendees.
+  info: Send questions to Ian Utting
+  # register: ""
+  organizers:
+    - name: Michael Kölling
+      email: mik@kent.ac.uk
+    - name: Amjad Altadmri
+      email: aa803@kent.ac.uk
+    - name: Neil Brown
+      email: nccb@kent.ac.uk
+    - name: Ian Utting
+      email: iau@kent.ac.uk
