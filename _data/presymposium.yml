@@ -245,17 +245,118 @@
     - name: Russ Marion
       email: marion2@clemson.edu
 
-- name: ""
-  date: ""
-  cost: ""
-  max: ""
-  where: "TBD"
+- name: Seeking Global, Industry and Training Provider Perspectives to Inform the ACM Joint Task Force for Cybersecurity Education
+  date: Wednesday, March 8, 8:30am-5:00pm
+  #room:
+  cost: Free
+  max: No Max
   blurb: |
-    ok, here's some markdown.
-  info: ""
-  register: ""
+    This event, led by members of the ACM Joint Task Force (JTF) for
+    Cybersecurity Education (csec2017.org), will engage participants in a
+    direct dialog concerning the development of curricular guidance.
+    Specifically, this session will focus on ensuring that the curricular
+    guidance is being developed to support worldwide adoption and to foster
+    instructional relationships industry stakeholders and training providers.
+    The JTF is seeking valuable input from the SIGCSE community in shaping the
+    next version of the guidelines. During the event, an overview of the
+    curricular guidance straw version will be presented, and participants
+    will actively engage in exploring how the guidelines can be improved/used
+    for course and program creation, review, and articulation, as well as for
+    other purposes not yet conceived. The purpose of this session is not to
+    discuss the content of the curricular volume, that discussion will occur
+    during the JTF special session scheduled for the main SIGCSE program.
+    Rather, this session will provide an opportunity for participants to
+    address the larger context and focus specifically on the broad
+    stakeholder audience.
+
+    The Joint Task Force on Cybersecurity Education (JTF) was chartered by
+    the ACM Education Board in September 2015 with the expressed purpose of
+    developing comprehensive, undergraduate curricular guidance in
+    cybersecurity education to support future program development and
+    associated educational efforts. The JTF is a collaboration among major
+    international computing societies: Association for Computing Machinery
+    (ACM), IEEE Computer Society (IEEE-CS), Association for Information
+    Systems Special Interest Group on Security (AIS SIGSEC), and the
+    International Federation for Information Processing Technical Committee
+    on Information Security Education (IFIP WG 11.8). The JTF grew out of
+    the foundational efforts of the Cyber Education Project (CEP).
+  # info: ""
+  # register: ""
   organizers:
-    - name: ""
-      email: ""
-    - name: ""
-      email: ""
+    - name: Diana Burley
+      email: dburley@gwu.edu
+    - name: Matt Bishop
+      email: mabishop@ucdavis.edu
+    - name: Scott Buck
+      email: scott.buck@intel.com
+    - name: David Gibson
+      email: David.Gibson@usafa.edu
+    - name: Sidd Kaza
+      email: skaza@towson.edu
+    - name: Elizabeth Hawthorne
+      email: hawthorne@ucc.edu
+
+- name: Department Chairs Roundtable
+  date: Wednesday, March 8, 8:30am-5:00pm
+  #room:
+  cost: Free
+  max: No Max
+  blurb: |
+    What are the challenges that Department Chairs face? How would you design
+    the ideal Department Chair? What are the features of a great Department
+    Chair? What are the issues in having a poor Department Chair? The summary
+    at the end of this article demonstrates the challenges that face anyone
+    that takes on this critical role.
+
+    If you are a new Chair, an experienced Chair, thinking about becoming a
+    Chair, or if you have stories to tell about awesome or terrible Department
+    Chairs, then you should participate in this roundtable. The discussions
+    and insights from this Roundtable should improve the quality of the
+    Department Chair experience: whether you are a Chair or not, this session
+    will be helpful in navigating your academic career.
+
+    The Roundtable will feature a panel of diverse and experienced Department
+    Chairs to lead a series of design charrettes . The charrettes will tackle
+    topics such as the significant administrative and personnel issues that
+    chairs must handle; leadership and management styles, time management,
+    legal issues, establishing priorities, and communication.
+
+    The final hour of the Roundtable will have a special focus on how to
+    encourage the adoption of innovative teaching practices. Changes in
+    attitudes toward teaching and learning are intertwined with the
+    availability of new technologies that challenge faculty to change the
+    way they teach. How can the Department Chair provide an organizational
+    climate that encourages and rewards innovation in CS education?
+
+    Many people don’t appreciate the many duties and roles that it part of
+    the Department Chair experience. Here is a summary of the most common
+    expectations from a Department Chair:
+
+    +   **Leader**: visionary, internal advocate, internal intermediary,
+        external liaison, curriculum leader, role model. The Chair should
+        be a transformational leader capable of creating space for change
+        and generating consensus among the faculty.
+
+    +   **Administrator**: fiscal overseer, schedule coordinator, report,
+        generator, staff supervisor. The Chair monitors the department budget
+        to ensure that the department’s work is done and that allocations are
+        not overspent. This role increasingly requires the Chair to find
+        creative ways to extend the budgets, including external fund raising.
+
+    +   **Personal facilitator**: counselor, coach, mediator, climate
+        regulator. The Chair needs to be accessible, establish relationships,
+        and be willing to listen to concerns to create an environment that
+        will encourage faculty productivity and harmony.
+
+    +   **Resource developer**: faculty recruiter, faculty mentor, faculty
+        evaluator, resource provider. The Chair hires new department faculty,
+        provides faculty with professional development opportunities and
+        mentoring to ensure their professional success and retention;
+        provides evaluations for annual merit raises, retention, promotion,
+        and tenure decisions; and finds resources that faculty need to do
+        their jobs.
+  info: Send questions or expressions of interest to Mary Lou Maher
+  # register: ""
+  organizers:
+    - name: Mary Lou Maher
+      email: m.maher@uncc.edu
