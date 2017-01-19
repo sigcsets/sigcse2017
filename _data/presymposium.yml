@@ -299,7 +299,7 @@
 - name: Department Chairs Roundtable
   date: Wednesday, March 8, 8:30am-5:00pm
   #room:
-  cost: Free
+  cost: $125
   max: No Max
   blurb: |
     What are the challenges that Department Chairs face? How would you design
@@ -356,7 +356,10 @@
         and tenure decisions; and finds resources that faculty need to do
         their jobs.
   info: Send questions or expressions of interest to Mary Lou Maher
-  # register: ""
+  register: Select this event on the online form when registering for the
+    conference; the fee will be added to your registration total.  You can
+    edit your registration and add this event, if you have already completed
+    registration.
   organizers:
     - name: Mary Lou Maher
       email: m.maher@uncc.edu
