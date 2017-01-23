@@ -199,6 +199,17 @@ four are close to the Washington State Convention Center and are within
 easy walking distance of each other.  The primary conference hotel is the
 **Sheraton Seattle**.
 
+{% callout info %}
+Several hotels have sold out of rooms in our conference block on some
+nights.  If you try to book online and do not see any rooms available
+at your preferred hotel, or you are quoted a different rate than the
+conference rate shown below, <b>please call the hotel instead</b>.  All
+of the hotels have agreed to honor the conference rate for available
+regular rooms (note: the conference block rooms are available Tuesday
+March 7 through Saturday March 11; non-conference rates may apply outside
+of these dates).
+{% endcallout %}
+
 +   **<a href="http://www.sheratonseattle.com/">Sheraton Seattle</a>** (<a href="https://www.starwoodmeeting.com/events/start.action?id=1609202098&key=14E8C405">reservations</a>)<br/>
     Room rate: $185/night + tax<br/>
     Deadline: February 7, 2017<br/>
