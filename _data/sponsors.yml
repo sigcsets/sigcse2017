@@ -8,6 +8,10 @@ Platinum:
   - name: "Intel"
     image: intel-200.png
     link: "https://intel.com/"
+  - name: "Microsoft"
+    blurb: ""
+    image: microsoft-200.png
+    link: "http://research.microsoft.com/"
   - name: "Vocareum, Inc"
     image: vocareum-new-200.png
     link: "https://www.vocareum.com/"
@@ -19,10 +23,7 @@ Gold:
   - name: "zyBooks"
     image: zybooks-200.png
     link: "https://www.zybooks.com/"
-#  - name: "Microsoft"
-#    blurb: ""
-#    image: microsoft-200.png
-#    link: "http://research.microsoft.com/"
+
 Silver:
   - name: ABET
     image: abet-new-100.png
