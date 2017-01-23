@@ -3,30 +3,25 @@ title: Workshops
 showTitle: true
 ---
 
-<!-- 
+<!--
 {“Workshop number”=>”106”, “Date/Time”=>”Wednesday March 8, 7 - 10 pm”, “Workshop title”=>”An Introduction to the WEKA Data Mining System”, “Presenters”=>”Ingrid Russell and Zdravko Markov”, “Abstract”=>
 -->
 
+{% assign prevdate = "" %}
+
 {% for ws in site.data.workshops-2017 %}
-<div class = "row">
-	<h3>{{ws["Workshop title"]}} (#{{ws["Workshop number"]}})</h3>
-</div>
 
-<div class = "row">
-	<div class = "col-sm-4">
-		<b>Date/Time: {{ws["Date/Time"]}}</b>
-	</div>
-	<div class = "col-sm-8">
-		<b>{{ws["Presenters"]}}</b>
-	</div>
-</div>
+{% assign thisdate = ws["Date/Time"] %}
+{% if thisdate != prevdate %}
+<h2 class="alert alert-info">{{thisdate}}</h2>
+{% endif %}
 
-<div class = "row">
-	<div class = "col-sm-10 col-sm-offset-1">
-		<p> {{ws["Abstract"]}} </p>
-	</div>
-</div>
-	
+<h3>{{ws["Workshop title"]}} (#{{ws["Workshop number"]}})</h3>
+<p><b>{{ws["Presenters"]}}</b><br/><b>{{thisdate}}</b></p>
+
+<p>{{ws["Abstract"]}}</p>
+
+{% assign prevdate = thisdate %}
 {% endfor %}
 
 {% for ws in site.data.workshops %}
