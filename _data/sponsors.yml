@@ -9,7 +9,7 @@ Platinum:
     image: intel-200.png
     link: "https://intel.com/"
   - name: "Vocareum, Inc"
-    image: vocareum-blue-200.png
+    image: vocareum-new-200.png
     link: "https://www.vocareum.com/"
     
 Gold:
@@ -19,10 +19,13 @@ Gold:
   - name: "ZyBooks"
     image: zybooks-200.png
     link: "https://www.zybooks.com/"
-    
+#  - name: "Microsoft"
+#    blurb: ""
+#    image: microsoft-200.png
+#    link: "http://research.microsoft.com/"
 Silver:
   - name: ABET
-    image: abet-200.png
+    image: abet-new-100.png
     link: "http://www.abet.org/"
   - name: "CODIO"
     image: codio-200.png
@@ -30,14 +33,11 @@ Silver:
   - name: GitHub
     image: github-200.png
     link: "https://github.com/"
-  # - name: Gradescope
-  #   blurb: ""
-  #   image: gradescope-160107-350.png
-  #   link: "https://gradescope.com/"
-  # - name: "Microsoft"
-  #   blurb: ""
-  #   image: microsoft-350.png
-  #   link: "http://research.microsoft.com/"
+  - name: Gradescope
+    blurb: ""
+    image: gradescope-200.png
+    link: "https://gradescope.com/"
+
   # - name: "Piazza Technologies, Inc."
   #   blurb: ""
   #   image: piazza-350.png
