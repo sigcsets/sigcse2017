@@ -190,8 +190,7 @@
 - number: 108
   order: 0
   date: Wednesday March 8, 7:00 pm - 10:00 pm
-  title: "Embedded Systems Lab Modules: A Complementary Approach to Learning
-    System Concepts"
+  title: "Micro Projects: Putting Light and Magic into Learning Computer Systems Concepts"
   room: 603
   presenters: Frank Barry, Appalachian State University
   abstract: |
@@ -732,18 +731,18 @@
     Bruegge, Technische Universität München
   abstract:
     Learning to apply computer science requires practical experience and cannot only
-    be taught through theory. (Inter)Active learning is an approach that combines
+    be taught through theory. Interactive learning is an approach that combines
     theory and exercises into multiple short iterations of theory, example, exercise,
     solution and feedback. It is based on active, blended and experiential learning and
     focuses on immediate feedback to improve the learning experience and to allow
     students to reflect about their learning. It includes hands-on activities and increases
     students' motivation and engagement.
 
-    This workshop describes experiences of multiple (inter)active learning courses for
+    This workshop describes experiences of multiple interactive learning courses for
     large classes, including exercises for (1) multiple choice quizzes, (2) interactive
     tutorials, (3) interactive programming exercises, (4) interactive modeling and (5)
     team activities. Based on our experience, we present multiple case studies and
-    concrete examples of (inter)active exercises. While the assessment of many
+    concrete examples of interactive exercises. While the assessment of many
     exercises can be (semi-)automated, teaching assistants in the classroom manually
     assess other exercises. We show how educators can integrate these exercises into
     large classes without significantly increasing their effort.
