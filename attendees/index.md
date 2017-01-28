@@ -229,8 +229,8 @@ of these dates).
     Phone: <a href="tel:+1-206-695-1234">+1-206-695-1234</a>
 
 +   **<a href="http://roosevelthotel.com/">The Roosevelt Hotel</a>** (<a href="https://reservations.travelclick.com/97459?hotelId=97459&groupid=1489846#/guestsandrooms">reservations</a>)<br/>
-    Room rate: $159/night + tax<br/>
-    Deadline: February 7, 2017<br/>
+    Room rate: <s>$159/night + tax</s> (now <b>SOLD OUT</b>)<br/>
+    Deadline: <s>February 7, 2017</s> (now <b>SOLD OUT</b>)<br/>
     Address: 1531 7th Ave, Seattle, WA 98101<br/>
     Phone: <a href="tel:+1-206-621-1200">+1-206-621-1200</a>
 
