@@ -54,7 +54,9 @@
     - name: Pre-Symposium Events
       link: /attendees/presymposium.html
     - name: Workshops
-      link: /attendees/workshops.html      
+      link: /attendees/workshops.html
+    - name: Sponsor Sessions
+      link: /attendees/sponsors.html
       divider: true
     - name: Student Volunteers
       link: /info/studentvolunteers.html

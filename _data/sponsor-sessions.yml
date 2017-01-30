@@ -1,0 +1,148 @@
+- date: Thursday March 9th
+  time: 10:45am - 12:00pm
+  name: Vocareum (Platinum)
+  room: 616-617
+  title: Assessment Strategies for Large CS Classes
+  authors: Christine Alvarado (University of California, San Diego) and Sanjay Srivastava (Vocareum)
+
+- date: Thursday March 9th
+  time: 10:45am - 12:00pm
+  name: Intel (Platinum)
+  room: 618-619
+  title: Learn How Intel Can Help Your Students Gain Expertise in Parallel Programming
+  authors: TBA
+
+- date: Thursday March 9th
+  time: 1:45pm - 3:00pm
+  name: IBM (Platinum)
+  room: 616-617
+  title: z Systems - the Path to Opportunity
+  authors: Misty Decker, IBM
+
+- date: Thursday March 9th
+  time: 1:45pm - 3:00pm
+  name: Intel (Platinum)
+  room: 618-619
+  title: A Deep Hands-on Experience on Parallel Programming Techniques and Industry Best Practices
+  authors: Mark Lubin, Intel Corporation
+
+- date: Thursday March 9th
+  time: 3:45pm - 5:00pm
+  name: Google (Platinum)
+  room: 618-619
+  title: New Tools and Solutions to Address the CS Capacity Crunch
+  authors: Chris Stephenson (Google),
+    Jeff Offutt (George Mason University),
+    Jeff Forbes (Duke University),
+    Kristy Boyer (University of Florida),
+    Heather Pon-Barry (Mount Holyoke), and
+    Josh Hug (University of California Berkeley)
+
+- date: Thursday March 9th
+  time: 3:45pm - 5:00pm
+  name: Zybooks (Gold)
+  room: 616-617
+  title: The Power of Integrated Learning for CS -- Teach Concepts, not Logins
+  authors: Smita Bakshi (CEO/Co-Founder, Zybooks),
+    Frank Vahid (Co-Founder, Zybooks and University of California, Riverside),
+    Roman Lysecky (Authoring Co-Lead, Zybooks and University of Arizona),
+    Scott Sirowy (Director of Engineering, Zybooks), and
+    Alex Edgcomb (Sr. Software Engineer/Research Specialist, Zybooks and
+    University of California, Riverside)
+
+- date: Friday March 10th
+  time: 10:45am - 12:00pm
+  name: Microsoft (Platinum)
+  room: 616-617
+  title: Dos and Don’ts of Partnering Software Professionals and Computer Science Classrooms and Why It Matters To You
+  authors: Brett Wortzman (Instruction and Training Manger, Microsoft TEALS)
+    and Kasey Champion (Computer Science Curriculum Developer, Microsoft Learning)
+
+- date: Friday March 10th
+  time: 10:45am - 12:00pm
+  name: Google (Platinum)
+  room: 618-619
+  title: Curriculum and Interview Recommendations for Software Engineering Preparedness
+  authors: Pierre St. Juste (Google)
+
+- date: Friday March 10th
+  time: 1:45pm - 3:00pm
+  name: IBM (Platinum)
+  room: 616-617
+  title: Addressing the Cybersecurity Skills Gap
+  authors: Heather (H.Y.) Ricciuto (Transformation and Academic Initiatives Leader, PMP®, IBM)
+
+- date: Friday March 10th
+  time: 1:45pm - 3:00pm
+  name: Vocareum (Platinum)
+  room: 618-619
+  title: The Next Frontier For Large Online Classes
+  authors: Sanjay Srivastava (Vocareum) and David Joyner (Georgia Tech)
+
+- date: Friday March 10th
+  time: 1:45pm - 3:00pm
+  name: Intel (Platinum)
+  room: 615
+  title: Artificial Intelligence on Intel Architecture
+  authors: Nagib Hakim, Intel Corporation
+
+- date: Friday March 10th
+  time: 3:45pm - 5:00pm
+  name: Microsoft (Platinum)
+  room: 616-617
+  title: Physical and Game-based Computing for CS Education
+  authors: Thomas Ball (Principal Researcher/Research Manager, Microsoft
+    Research), Peli de Halleux (Principal Research Software Engineer,
+    Microsoft Research) and Eric Anderson (Senior Software Engineer, Microsoft)
+
+- date: Friday March 10th
+  time: 3:45pm - 5:00pm
+  name: Oracle Academy (Gold)
+  room: 618-619
+  title: Computer Science Curriculum for K12 and Beyond
+  authors: Tyra Crockett (Sr. Manager, Oracle Academy)
+
+- date: Saturday March 11th
+  time: 8:45am - 10:00am
+  name: IBM (Platinum)
+  room: 608
+  title: Introduction to Watson IoT
+  authors: Gayathri Magie, IBM
+
+- date: Saturday March 11th
+  time: 8:45am - 10:00am
+  name: ABET (Silver)
+  room: 616-617
+  title: Computing and CS Accreditation - What You Should Know
+  authors: J.J. Ekstrom, Brigham Young University; Allen Parrish, US Naval
+    Academy; Ed Sobiesk, Army Cyber Institute; Rajendra Raj, RIT
+
+- date: Saturday March 11th
+  time: 8:45am - 10:00am
+  name: Codio (Silver)
+  room: 618-619
+  title: An Online Solution to Authoring of Student Code Tests of Any
+    Complexity and IDE Based Tutorial Content
+  authors: Freddy May, Founder of Codio
+
+- date: Saturday March 11th
+  time: 8:45am - 10:00am
+  name: Gradescope (Silver)
+  room: 609
+  title: Grading Both Written and Programming Assignments on One Platform
+  authors: Ibrahim Awwal and Sergey Karayev, Gradescope
+
+- date: Saturday March 11th
+  time: 10:45am - 12:00pm
+  name: GitHub (Silver)
+  room: 616-617
+  title: "git init: How I Implemented GitHub in My Classroom"
+  authors: Vanessa Gennarelli and John Britton, GitHub Education
+
+- date: Saturday March 11th
+  time: 10:45am - 12:00pm
+  name: Teradata University Network (Silver)
+  room: 618-619
+  title: Exciting Ways To Engage Your Students with the Power Of Data
+  authors: Susan Baskin, Teradata Corporation; Karen Davis, University of Cincinnati
+
