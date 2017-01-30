@@ -53,10 +53,18 @@
       link: /info/program.html
     - name: Pre-Symposium Events
       link: /attendees/presymposium.html
-    - name: Workshops
-      link: /attendees/workshops.html
     - name: Sponsor Sessions
       link: /attendees/sponsors.html
+    - name: Workshops
+      link: /attendees/workshops.html
+    - name: BOFs
+      link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:13076
+    - name: Poster Session I
+      link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:12960
+    - name: Poster Session II
+      link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:12962
+    - name: Lightning Talks
+      link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:12951
       divider: true
     - name: Student Volunteers
       link: /info/studentvolunteers.html
