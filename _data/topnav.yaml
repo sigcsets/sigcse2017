@@ -49,7 +49,7 @@
     - name: Roommate Database
       link: /attendees/index.html#roommatedb
       divider: true
-    - name: Interactive Program
+    - name: Online Program
       link: http://easychair.org/smart-program/SIGCSE2017/
     - name: Draft Program (PDF)
       link: /docs/sigcse2017-draft-program.pdf
