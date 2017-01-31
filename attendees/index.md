@@ -217,8 +217,8 @@ of these dates).
     Phone: <a href="tel:+1-206-621-9000">+1-206-621-9000</a>
 
 +   **<a href="http://seattle.grand.hyatt.com/">Grand Hyatt Seattle</a>** (<a href="https://aws.passkey.com/go/ACMSIGSCE2017GrandHyatt">reservations</a>)<br/>
-    Room rate: $185/night + tax<br/>
-    Deadline: February 7, 2017<br/>
+    Room rate: <s>$185/night + tax</s> (now <b>SOLD OUT</b>)<br/>
+    Deadline: <s>February 7, 2017</s> (now <b>SOLD OUT</b>)<br/>
     Address: 721 Pine St, Seattle, WA 98101<br/>
     Phone: <a href="tel:+1-206-774-1234">+1-206-774-1234</a>
 
