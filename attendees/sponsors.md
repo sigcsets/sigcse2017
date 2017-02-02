@@ -13,8 +13,10 @@ showTitle: true
 {% endif %}
 
 <h3>{{event.name}}: {{event.title}}</h3>
-<p><b>Time: {{event.time}}</b><br/>
-<b>Room: {{event.room}}</b></p>
+<p><b>
+Presenter(s): {{event.authors}}<br/>
+Time: {{event.time}}<br/>
+Room: {{event.room}}</b></p>
 
 {{event.abstract}}
 
