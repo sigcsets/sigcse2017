@@ -68,6 +68,9 @@
     - name: Lightning Talks
       link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:12951
       divider: true
+    - name: Kids' Camp
+      link: /attendees/kidscamp.html
+      divider: true
     - name: Student Volunteers
       link: /info/studentvolunteers.html
 - name: For Exhibitors

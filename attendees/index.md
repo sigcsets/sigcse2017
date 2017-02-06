@@ -211,12 +211,12 @@ of these dates).
 {% endcallout %}
 
 +   **<a href="http://www.sheratonseattle.com/">Sheraton Seattle</a>** (<a href="https://www.starwoodmeeting.com/events/start.action?id=1609202098&key=14E8C405">reservations</a>)<br/>
-    Room rate: $185/night + tax<br/>
+    Room rate: <s>$185/night + tax</s> (only upgraded, more expensive rooms left)<br/>
     Deadline: February 7, 2017<br/>
     Address: 1400 6th Ave, Seattle, WA 98101<br/>
     Phone: <a href="tel:+1-206-621-9000">+1-206-621-9000</a>
 
-+   **<a href="http://seattle.grand.hyatt.com/">Grand Hyatt Seattle</a>** (<a href="https://aws.passkey.com/go/ACMSIGSCE2017GrandHyatt">reservations</a>)<br/>
++   **<s><a href="http://seattle.grand.hyatt.com/">Grand Hyatt Seattle</a></s>** (<a href="https://aws.passkey.com/go/ACMSIGSCE2017GrandHyatt">reservations</a>) (now <b>SOLD OUT</b>)<br/>
     Room rate: <s>$185/night + tax</s> (now <b>SOLD OUT</b>)<br/>
     Deadline: <s>February 7, 2017</s> (now <b>SOLD OUT</b>)<br/>
     Address: 721 Pine St, Seattle, WA 98101<br/>
@@ -228,7 +228,7 @@ of these dates).
     Address: 1635 8th Ave, Seattle, WA 98101<br/>
     Phone: <a href="tel:+1-206-695-1234">+1-206-695-1234</a>
 
-+   **<a href="http://roosevelthotel.com/">The Roosevelt Hotel</a>** (<a href="https://reservations.travelclick.com/97459?hotelId=97459&groupid=1489846#/guestsandrooms">reservations</a>)<br/>
++   **<s><a href="http://roosevelthotel.com/">The Roosevelt Hotel</a></s>** (<a href="https://reservations.travelclick.com/97459?hotelId=97459&groupid=1489846#/guestsandrooms">reservations</a>) (now <b>SOLD OUT</b>)<br/>
     Room rate: <s>$159/night + tax</s> (now <b>SOLD OUT</b>)<br/>
     Deadline: <s>February 7, 2017</s> (now <b>SOLD OUT</b>)<br/>
     Address: 1531 7th Ave, Seattle, WA 98101<br/>

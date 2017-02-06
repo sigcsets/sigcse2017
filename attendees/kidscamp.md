@@ -4,40 +4,51 @@ showTitle: true
 ---
 
 We are pleased to announce that we will once again have Kids’ Camp at
-SIGCSE 2016, generously supported by the SIGCSE Board!
+SIGCSE 2017, generously supported by the SIGCSE Board!
 
 ## Registration
 
 Kids Camp registration is available at
 
-[www.accentregister.com/register/sigcse16](www.accentregister.com/register/sigcse16)
+[https://www.jotform.com/KiddieCorp/sigcsekids](https://www.jotform.com/KiddieCorp/sigcsekids)
 
-Accent on Childcare Arrangements, Inc. will be providing childcare
-programs for Kids' Camp. To learn more about Accent, please visit
-[http://www.accentoca.com/](http://www.accentoca.com/). Registration deadline is February 5, 2014.
+Kiddie Corp will be providing childcare
+programs for Kids' Camp. To learn more about Kiddie Corp, please visit
+[http://www.kiddiecorp.com/](http://www.kiddiecorp.com/). The early
+egistration deadline is approaching quickly.
 
-The SIGCSE 2016 Kids’ Camp will be in the conference hotel. The exact
+The SIGCSE 2017 Kids’ Camp will be in the Washington State Conference Center,
+close to the main technical sessions. The exact
 location will be available at the registration table.
 
 Kids’ Camp Dates and Times:
 
-* Thursday, March 3
-
-    8:00am - 6:00pm
-    
-* Friday, March 4
+* Thursday, March 9
 
     8:00am - 6:00pm
 
-* Saturday, March 5
+* Friday, March 10
+
+    8:00am - 6:00pm
+
+* Saturday, March 11
 
     8:00am - 4:00pm
 
 ## Fees
 
-There is a $20 per child registration fee.  This fee is non-refundable.  This fee covers all 3 days of childcare.  However, please register your child(ren) only for the days you plan to attend.
+There is a registration fee of $100 for the first child, and $50 for each
+additional child.  This fee is non-refundable.  This fee covers all three days
+of childcare.  However, please register your child(ren) only for the days you
+plan to attend.
 
-There will be a late fee of $5.00 for every 5 minutes a parent is late in picking up his/her child at the end of a session.
+There will be a late fee of **$5.00 for every 5 minutes** a parent is late
+in picking up his/her child at the end of a session.
+
+## Kids' Camp Theme
+
+The camp organizers are developing the activities for this year's event
+around the theme of **Superheroes**.
 
 ## Frequently Asked Questions
 
@@ -51,7 +62,7 @@ There will be a late fee of $5.00 for every 5 minutes a parent is late in pickin
 
 1. Where will Kids Camp be located?
 
-    Kids Camp will be conveniently located in the conference hotel. Visiting your children will be easy, yet they are comfortably away from the main conference traffic.
+    Kids Camp will be conveniently located in the convention center. Visiting your children will be easy.
 
 1. What will my child(ren) be doing while I am attending the conference?
 
@@ -64,11 +75,10 @@ There will be a late fee of $5.00 for every 5 minutes a parent is late in pickin
 1. How many childcare providers will be in the rooms?
 
     Daycare provider ratios will be:
-    
+
       * 1:2 for children ages 6 to 11 months old
       * 1:3 for children 1 to 2 years old
       * 1:5 for children 3 to 12 years old
-    
+
     Student volunteers for the computing activities will be additional helpers and are not included in this ratio.
-    
-    
+
