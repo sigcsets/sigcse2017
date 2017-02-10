@@ -74,7 +74,7 @@
 
   - name: Larry Merkle
     role: Registration
-    inst: Computational Optimization Services
+    inst: Air Force Institute of Technology
     email: sigcse2017-reg@cs.vt.edu
 
   - name: Brad Miller
@@ -226,7 +226,7 @@
     - name: "Ming Zhang"
       inst: "Peking University, China"
       email: "mzhang_cs@pku.edu.cn"
-      
+
 - name: Associate Program Chairs
   members:
   - name: Eric Aaron
@@ -433,4 +433,3 @@
     inst: Texas Woman's University
     #email: jzhang@twu.edu
 
-    
