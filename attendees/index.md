@@ -213,8 +213,10 @@ of these dates).
 +   **<a href="http://www.sheratonseattle.com/">Sheraton Seattle</a>** (<a href="https://www.starwoodmeeting.com/events/start.action?id=1609202098&key=14E8C405">reservations</a>)<br/>
     Room rate: <s>$185/night + tax</s> (only upgraded, more expensive rooms left)<br/>
     Deadline: February 7, 2017<br/>
+    (if you phone direct and ask for the SIGCSE rate, you may still be able to get the group rate)<br/>
     Address: 1400 6th Ave, Seattle, WA 98101<br/>
-    Phone: <a href="tel:+1-206-621-9000">+1-206-621-9000</a>
+    Phone: <a href="tel:+1-206-621-9000">+1-206-621-9000</a><br/>
+    Phone (direct): <a href="tel:+1-206-447-5547">+1-206-447-5547</a>
 
 +   **<s><a href="http://seattle.grand.hyatt.com/">Grand Hyatt Seattle</a></s>** (<a href="https://aws.passkey.com/go/ACMSIGSCE2017GrandHyatt">reservations</a>) (now <b>SOLD OUT</b>)<br/>
     Room rate: <s>$185/night + tax</s> (now <b>SOLD OUT</b>)<br/>
@@ -224,7 +226,7 @@ of these dates).
 
 +   **<a href="http://olive8.hyatt.com/">Hyatt at Olive 8</a>** (<a href="https://aws.passkey.com/go/ACMSIGSCE2017Olive8">reservations</a>)<br/>
     Room rate: $185/night + tax<br/>
-    Deadline: February 7, 2017<br/>
+    Deadline: <b>February 17</b>, 2017 (note extension!)<br/>
     Address: 1635 8th Ave, Seattle, WA 98101<br/>
     Phone: <a href="tel:+1-206-695-1234">+1-206-695-1234</a>
 
