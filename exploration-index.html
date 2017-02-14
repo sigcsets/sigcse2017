@@ -18,30 +18,30 @@ layout: default
 </p>
 
   <div class = "row">
-    <h3>Sponsors</h3>
-    <p>Our incredible sponsors help power the SIGCSE TS and our work as CS educators.</p>
+    <h3>Supporters</h3>
+    <p>Our incredible supporters help power the SIGCSE TS and our work as CS educators.</p>
     
 
     {% assign rows = 2 %}
     {% assign cellstyle = "col-sm-8 col-sm-offset-1" %}
 
-    {% for rank in site.data.sponsors %}
+    {% for rank in site.data.supporters %}
       <h4>{{rank[0]}}</h4>
-      {% for sponsor in rank[1] %}
+      {% for supporter in rank[1] %}
         <div class = "text-center">
           <p style = "margin-bottom:-5px;">
-            {{sponsor.name}}
+            {{supporter.name}}
           </p>
           <p style = "margin-bottom:30px;">
-            <a href="{{sponsor.link}}">
-              <img src = "{{site.baseurl}}/images/sponsors/{{sponsor.image}}" alt = "{{sponsor.name}}">
+            <a href="{{supporter.link}}">
+              <img src = "{{site.baseurl}}/images/supporters/{{supporter.image}}" alt = "{{supporter.name}}">
             </a>
             </p>
         </div>
-      {% endfor %}   <!-- End sponsor {{sponsor.name}} -->
+      {% endfor %}   <!-- End supporter {{supporter.name}} -->
     {% endfor %} <!-- End rank {{rank[0]}} --> 
         
-  </div> <!-- End row for sponsors -->
+  </div> <!-- End row for supporters -->
   
   </div> <!-- End LH side of page -->
 

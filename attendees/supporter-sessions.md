@@ -1,5 +1,5 @@
 ---
-title: Sponsor Sessions
+title: Supporter Sessions
 showTitle: true
 ---
 
@@ -7,7 +7,7 @@ showTitle: true
 DAY,NUMBER,TIME,COMPANY,LEVEL,SESSION TITLE,ROOM,PRESENTERS,CONTENT
 -->
 
-{% for ws in site.data.sponsor-sessions-2017 %}
+{% for ws in site.data.supporter-sessions-2017 %}
 <div class = "row">
 	<h3>{{ws["sessiontitle"]}} (Room #{{ws["room"]}})</h3>
 </div>

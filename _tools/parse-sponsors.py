@@ -1,6 +1,6 @@
 import csv, sys
 
-sponsorcount = 0
+supportercount = 0
 indent_char = "  "
 # DAY,NUMBER,TIME,COMPANY,LEVEL,SESSIONTITLE,ROOM,PRESENTERS,CONTENT,,NOTES,DAVE,"Good for Student Volunteers 
 
@@ -11,9 +11,9 @@ def rowString (indent, key):
 with open(sys.argv[1], 'rb') as csvfile:
   reader = csv.DictReader(csvfile) # delimiter=' ', quotechar='|'
   for row in reader:
-    # print ("- sponsor_{0}".format(sponsorcount))
+    # print ("- supporter_{0}".format(supportercount))
     print ("-")
-    sponsorcount += 1
+    supportercount += 1
     print(rowString(1, "DAY"))
     print(rowString(1, "NUMBER"))
     print(rowString(1, "TIME"))

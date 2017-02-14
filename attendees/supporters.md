@@ -5,7 +5,7 @@ showTitle: true
 
 {% assign prevdate = "" %}
 
-{% for event in site.data.sponsor-sessions %}
+{% for event in site.data.supporter-sessions %}
 
 {% assign thisdate = event.date %}
 {% if thisdate != prevdate %}

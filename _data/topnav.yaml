@@ -56,7 +56,8 @@
     - name: Pre-Symposium Events
       link: /attendees/presymposium.html
     - name: Supporter Sessions
-      link: /attendees/sponsors.html
+      # link: /attendees/supporters.html
+      link: /attendees/supporters.html
     - name: Workshops
       link: /attendees/workshops.html
     - name: BOFs
@@ -77,8 +78,8 @@
   subheads:
     - name: Prospectus
       link: /info/supporters.html
-    #- name: List of Sponsors and Exhibitors
-    #  link: /info/sponsors-and-exhibitors.html
+    #- name: List of Supporters and Exhibitors
+    #  link: /info/supporters-and-exhibitors.html
 #- name: Program
 #  subheads:
 #    - name: Coming Soon

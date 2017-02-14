@@ -65,10 +65,10 @@ layout: default
     </div>
   </div> <!-- End Second Row of Speakers -->
 
-  <div class = "row"> <!-- start sponsors -->
-    {% for category in site.data.sponsors %}
+  <div class = "row"> <!-- start supporters -->
+    {% for category in site.data.supporters %}
       <div class="row">
-          <h3 class="text-center" style="text-shadow: 1px 1px 1px; border-bottom: 1px solid #ccc;">{{category[0]}} Sponsors</h1>
+          <h3 class="text-center" style="text-shadow: 1px 1px 1px; border-bottom: 1px solid #ccc;">{{category[0]}} Supporters</h1>
       </div>
       {% assign mod = 0 %}
       {% assign modulus = 3 %}
@@ -76,7 +76,7 @@ layout: default
       {% capture subone %}{{modulus | minus: 1}}{% endcapture %}
       <!-- SPAN: {{span}} SUBONE: {{subone}} -->
 
-      {% for sponsor in category[1]  %}
+      {% for supporter in category[1]  %}
         {% capture mod %}{{ forloop.index0 | mod: modulus }}{% endcapture %}
         {% if mod == '0' or forloop.first %}
           <div class="row">
@@ -85,10 +85,10 @@ layout: default
         <!-- SPONSOR: {{mod}} -->
         <div class="col-md-{{span}}" >
       	  <div class="thumbnail" style="border: 0px; padding-top: 40px;">
-            <h5 class="text-center" style="margin-top: -25px; color: black;">{{sponsor.name}}</h3>
-            <a href="{{sponsor.link}}">
-      		    <img alt="{{sponsor.name}}"
-                   src="images/sponsors/200s/{{sponsor.image}}"
+            <h5 class="text-center" style="margin-top: -25px; color: black;">{{supporter.name}}</h3>
+            <a href="{{supporter.link}}">
+      		    <img alt="{{supporter.name}}"
+                   src="images/supporters/200s/{{supporter.image}}"
                    />
             </a>
       	  </div>
@@ -100,7 +100,7 @@ layout: default
 
       {% endfor %}
     {% endfor %}
-  </div> <!-- end sponsors -->
+  </div> <!-- end supporters -->
 
 	</div> <!-- End Left Hand Side -->
 
