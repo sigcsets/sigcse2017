@@ -30,7 +30,7 @@ Silver:
     link: "http://www.abet.org/"
   - name: "CODIO"
     image: codio-200.png
-    link: ""
+    link: "https://codio.com/"
   - name: GitHub
     image: github-200.png
     link: "https://github.com/"
