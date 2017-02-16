@@ -48,6 +48,8 @@
       link: /attendees/index.html#reserving-a-room
     - name: Roommate Database
       link: /attendees/index.html#roommatedb
+    - name: Ground Transport
+      link: /attendees/index.html#travel
       divider: true
     - name: Online Program
       link: http://easychair.org/smart-program/SIGCSE2017/
