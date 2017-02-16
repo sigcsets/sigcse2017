@@ -7,6 +7,11 @@ location:
   city: Seattle
   state: Washington
   country: USA
+airport:
+  code: SEA
+  name: Seattle-Tacoma International
+  url: http://www.portseattle.org/Sea-Tac/Pages/default.aspx
+  phone: +1-800-544-1965​
 
 deadlines:
   - items:

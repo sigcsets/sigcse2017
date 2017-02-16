@@ -17,11 +17,12 @@ This page will contain everything you need for registration, reserving a room, o
     <li> <a href="travelgrants.html">applying for a travel grant from SIGCSE,</a></li>
     -->
     <li> <a href="#reserving">reserving a room</a>,</li>
-    <!--
+
     <li> <a href="#roommatedb">finding a roommate in the roommate database</a>,</li>
+  
     <li> figuring out <a href="#travel">how to travel to {{site.data.main.conferenceCity}}</a>, and</li>
     <li> <a href="#stufftodo">what to do once you are there</a></li>
-    -->
+
   </ul>
   is on this page.
 </p>
@@ -300,68 +301,67 @@ In no particular order, these additional hotels are generally within easy transp
 
 You can also use the [SIGCSE roommate database](http://sigcse.rit.edu/roommates/) to find someone to room with. This is the preferred database of SIGCSE members around the world for finding roommates at the SIGCSE Technical Symposium. Honest.
 
-<!--
 
 <a name="travel"></a>
 
-## Getting to SIGCSE {{site.data.main.year}}
+## Getting to SIGCSE {{site.data.sigcse.year}}
 
-### {{site.data.main.nearestAirport}} (Airport Code: {{site.data.main.nearestAirportCode}})
+### {{site.data.sigcse.airport.name}} (Airport Code: {{site.data.sigcse.airport.code}})
 
 <div class="row">
   <div class="col-md-12">
 <p>
-  Our airport is the {{site.data.main.nearestAirport}} (<a href="{{site.data.main.airporturl}}">{{site.data.main.airporturl}}</a>).
+  Our airport is {{site.data.sigcse.airport.name}} (<a href="{{site.data.sigcse.airport.url}}">{{site.data.sigcse.airport.url}}</a>).
 </p>
 <p>
-  The airport's phone number is <a href="tel:{{site.data.main.airportphonenumber}}">{{site.data.main.airportphonenumber}}</a>
+  The airport's phone number is <a href="tel:{{site.data.sigcse.airport.phone}}">{{site.data.sigcse.airport.phone}}.</a>
 </p>
 
 <h3>Ground Transportation</h3>
 
-<div class="row" >
-  <div class="col-sm-12">
-<em>None of this information has been verified by anyone on the ground. Your friendly neighborhood Webmaster has just gone Googling. <b>YOU HAVE BEEN WARNED</b>.</em>
-</div>
-</div>
+<p>
+There are many options for getting from the airport to the conference, including <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Public-Transit.aspx">light rail</a> ($3), <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Taxis-and-Limos.aspx">taxis</a> (~$40), <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Bus-Shuttle-Courtesy.aspx">shuttles</a> (~$20), and <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/tnc.aspx">rideshares</a> (~$30-40). Light rail typically runs on time and takes 40 minutes.  Driving can take anywhere from 20-45 minutes depending on traffic.
+</p>
 
-<div class = "row text-center" style="margin-top: 20px">
-  <div class="col-sm-12">
-  <img src = "airport-hotel-route.png">
-</div>
-</div>
+<h4>Link Light Rail</h4>
 
-<div class = "row" style="margin-top: 20px">
-  <div class = "col-sm-12">
+<p>
+  The least expensive way to get from the airport to the convention center/conference hotels is by light rail.  Trains depart the airport station every 6-15 minutes from 5 a.m. to midnight Monday through Saturday (6 a.m. to 11:19pm on Sundays). Some walking is required: 10-15 minute walk from baggage claim to the airport light rail station, and then 5 minutes (1.5 to 2.5 blocks) from Westlake station to the conference hotels. The <a href="http://m.soundtransit.org/Fares-and-Passes/Link-fares">fare</a> is $3 one way from SeaTac Airport station to Westlake station (the station closest to the convention center and conference hotels) and takes about 40 minutes. 
+</p>
 
-<ul>
-  <li> It <a href="http://www.matatransit.com/ridersguide/train-and-plane-connect/">appears you can take the bus</a>. I welcome local knowledge as to whether this is even feasible.</li>
+<p>
+Schedules: <a href="http://m.soundtransit.org/sites/default/files/schedules/link-light-rail-northbound.pdf">Northbound to Downtown/UW</a>, <a href="http://m.soundtransit.org/sites/default/files/schedules/link-light-rail-southbound.pdf">Southbound to SeaTac Airport</a>, <a href="http://m.soundtransit.org/schedules?direction=outbound#40_100479">Interactive Schedule</a>. 
+</p>
 
-<li> <a href="http://www.taxifarefinder.com/">TaxiFareFinder.com</a> suggests a taxi will run $30-40 from the airport to the hotel. </li>
+<p>
+<a href="http://www.portseattle.org/Sea-Tac/Maps-and-Directions/Pages/Terminal-to-Link-Light-Rail.aspx">This map</a> and <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Public-Transit.aspx">this video</a> show how to walk from the airport terminal to the light rail station. Follow the signs to “Link Light Rail”. In short, cross from the terminal over to the 4th floor of the parking garage using the skybridges found one level above the baggage claim (one level below check-in). The walkway is covered and well-lit, and is separated from the main area of the garage. <a href="http://www.portseattle.org/Sea-Tac/Passenger-Services/Pages/Accessibility.aspx">Wheelchair service is available</a>. Purchase your ticket from the machines as soon as you enter the light rail station, do this <b>before</b> heading up to the train platform. Return tickets can be purchased at any of the downtown tunnel stations. Hang on to your ticket, as you may be asked to show it to a fare inspector on request (light rail is a proof-of-payment, honor-based system).
+</p>
 
-<li><a href="http://www.bluescitytours.com/airport-shuttle.php">Blue City Tours</a> advertises $25/person airport shuttles (cheaper in groups). I'm sure, if there was someone who could write code in this group, we could find a way to connect people up via smartphone app, so that we could minimize travel cost and maximize ride sharing...</li>
+<p>
+You may enjoy <a href="http://m.soundtransit.org/sites/default/files/documents/pdf/201404_startonlinkmap.pdf">reading about</a> some of the <a href="http://m.soundtransit.org/Rider-Guide/public-art/guide-art-link-light-rail">art in the light rail stations</a>.
+</p>
 
+<p>
+<b>To get to the hotels from Westlake light rail station</b>: Exit the train and walk towards the front of the train.  Take the escalator on your right (perpendicular to the train) signed: “5th Ave. & Pine St”. Once at the top of the escalator, head towards Nordstrom and continue following signs for “5th & Pine/Nordstrom” and escalators up until you emerge onto Pine Street, between 5th and 6th Ave. Turn to your left and walk to the corner of Pine and 6th, which puts you <b>1-2 blocks from all four conference hotels</b>. 
+</p>
 
-<li>The website <a href="https://booking.airportshuttles.com/">airportshuttles.com</a> points to a number of services in Memphis, including Blacklane and GroundLink. Blacklane lists some "sedan class" rides from the hotel to the airport at roughly $56 (with room for three people, two suitcases, and two lunchboxes... I have <b>no idea</b> what the icons on this site mean), SUVs for $78 (which have room for 5 people and their associated suitcases and lunchboxes). </li>
+<p>From corner of Pine St. and 6th Ave:</p>
+<p>
+<li>Sheraton Seattle - cross Pine (towards Eileen Fisher) and walk one block on 6th.  Entrance on 6th.
+</li>
+<li>The Roosevelt Hotel - cross 6th (towards Pacific Place mall) and walk one block on Pine. Cross Pine to the entrance on corner of Pine and 7th.
+</li>
+<li>Grand Hyatt Seattle - is immediately across 7th Ave from the Roosevelt. Entrance on 7th and also on Pine.
+</li>
+<li>Hyatt at Olive 8 - cross 6th (towards Pacific Place mall) and walk two blocks on Pine. Turn left on 8th and walk half a block. Entrance on 8th.
+</li>
+</p>
 
-<li>If you book online, <a href="http://www.mearstransportation.com/memphis-international-airport-transportation/">Mears Transportation</a> seems to cost around $72 for a sedan-class airport-to-hotel service.</li>
+<h4>Shuttle Services</h4>
+<p>
+  <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Bus-Shuttle-Courtesy.aspx">Several companies</a> offer shared van shuttle service for around $20 including <a href="https://shuttleexpress.com/seattle/airport/downtown-airporter/">Shuttle Express Downtown Airporter</a> and <a href="http://www.speedishuttleseattle.com/">Speedi Shuttle</a>.
+</p>
 
+<h4>Note</h4>
+<em>Last year, ground transport information was researched by your webmaster, who knew nothing. This year, this information is provided by a colleague with expert, local knowledge. Hooray for local knowledge! Thank you Ruth!</em>
 
-
-</div>
-</div>
-
-<div class = "row text-center" style="margin-top: 20px">
-  <div class="col-sm-12">
-Yellow Cab and Checker Cab ("sister companies") suggest that you can call them to to schedule a taxi to take you to the airport (901-577-7777 or 800-796-7750), and for scheduled group airport shuttles, call 901-577-7700 or 800-796-7750.
-</div></div>
-
-<a name="stufftodo"></a>
-
-<h3>Once You Are There</h3>
-
-Memphis is a great town (the Webmaster has been there before, and it's pretty groovy). We'll have information about all the excitement you hip cats can handle long before you arrive.
-
-</div>
-</div>
--->
