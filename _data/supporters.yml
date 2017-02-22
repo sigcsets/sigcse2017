@@ -38,19 +38,17 @@ Silver:
     blurb: ""
     image: gradescope-200.png
     link: "https://gradescope.com/"
-
-  # - name: "Piazza Technologies, Inc."
-  #   blurb: ""
-  #   image: piazza-350.png
-  #   link: "https://piazza.com/"
+  - name: LEGO Education
+    blurb: ""
+    image: lego-200.png
+    link: "https://education.lego.com/en-us"
   - name: "Teradata University Network"
     blurb: "Providing students with hands-on software experiences with the worlds' largest companies."
     image: teradata-200.png
     link: "http://www.teradatauniversitynetwork.com/"
-  # - name: "Turing's Craft"
-  #   blurb: "CodeLab: A Powerful Tool for Programming Instruction"
-  #   image: turingscraft-350.png
-  #   link: "http://www.turingscraft.com/"
+Bronze:
+  - name: "NVIDIA"
+    blurb: ""
+    image: nvidia-200.png
+    link: "https://developer.nvidia.com/academia"
 
-    
-#Bronze:
