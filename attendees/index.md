@@ -320,7 +320,7 @@ You can also use the [SIGCSE roommate database](http://sigcse.rit.edu/roommates/
 <h3>Ground Transportation</h3>
 
 <p>
-There are many options for getting from the airport to the conference, including <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Public-Transit.aspx">light rail</a> ($3), <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Taxis-and-Limos.aspx">taxis</a> (~$40), <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Bus-Shuttle-Courtesy.aspx">shuttles</a> (~$20), and <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/tnc.aspx">rideshares</a> (~$30-40). Light rail typically runs on time and takes 40 minutes.  Driving can take anywhere from 20-45 minutes depending on traffic.
+There are many options for getting from the airport to the conference, including <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Public-Transit.aspx">light rail</a> ($3), <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Taxis-and-Limos.aspx">taxis</a> (~$40), <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Bus-Shuttle-Courtesy.aspx">shuttles</a> (~$20), and <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/tnc.aspx">rideshares</a> (Uber, Lyft, Wingz, etc.) (~$27-40). Light rail typically runs on time and takes 40 minutes.  Driving can take anywhere from 20-45 minutes depending on traffic.
 </p>
 
 <h4>Link Light Rail</h4>
@@ -360,6 +360,10 @@ You may enjoy <a href="http://m.soundtransit.org/sites/default/files/documents/p
 <h4>Shuttle Services</h4>
 <p>
   <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Bus-Shuttle-Courtesy.aspx">Several companies</a> offer shared van shuttle service for around $20 including <a href="https://shuttleexpress.com/seattle/airport/downtown-airporter/">Shuttle Express Downtown Airporter</a> and <a href="http://www.speedishuttleseattle.com/">Speedi Shuttle</a>.
+</p>
+
+<p>
+  <a href="https://www.lyft.com/cities/seattle">Lyft</a>, <a href="https://www.uber.com/airports/sea-tac/">Uber</a> and <a href="https://www.wingz.me/airport/sea/">Wingz</a> provide services at Sea-Tac Airport.  The pickup area can be found here. 
 </p>
 
 <h4>Note</h4>
