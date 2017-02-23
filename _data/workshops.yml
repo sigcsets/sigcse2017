@@ -1,4 +1,5 @@
-﻿- number: 101
+﻿# cancelled: 107, 109, 305, 309, 403, and 405
+- number: 101
   order: 0
   date: Wednesday March 8, 7:00 pm - 10:00 pm
   title: "GP: A General Purpose Blocks-Based Language"
@@ -167,6 +168,7 @@
 
 - number: 107
   order: 0
+  cancelled: true
   date: Wednesday March 8, 7:00 pm - 10:00 pm
   title: "What's new in BlueJ 4: Git, Stride and more"
   room: 612
@@ -218,6 +220,7 @@
 
 
 - number: 109
+  cancelled: true
   order: 0
   date: Wednesday March 8, 7:00 pm - 10:00 pm
   title: Teaching Distributed Computing with WorkQueue
@@ -378,6 +381,7 @@
 
 - number: 305
   order: 1
+  cancelled: true
   date: Friday March 10, 7:00 pm -10:00 pm
   title: Two Birds - Teaching Coding and Math in Primary Schools and Beyond
   room: 611
@@ -488,6 +492,7 @@
 
 - number: 309
   order: 1
+  cancelled: true
   date: Friday March 10, 7:00 pm -10:00 pm
   title: Testing Across the Curriculum
   room: 606
@@ -653,6 +658,7 @@
 
 - number: 405
   order: 2
+  cancelled: true
   date: Saturday March 11, 3:00 pm -6:00 pm
   title: Creating Peer Grading Videos
   room: 611
