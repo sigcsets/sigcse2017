@@ -364,6 +364,21 @@
     - name: Mary Lou Maher
       email: m.maher@uncc.edu
 
+- name: CSforAll Consortium Networking Reception at SIGCSE
+  date: Wednesday, March 8, 6pm - 8pm
+  room: TBA
+  cost: Free
+  max: 150
+  blurb: |
+    The CSforAll Consortium (csforall.org) is a hub for the national Computer Science for All movement that works to enable all students in grades K-12 to achieve computer science literacy as an integral part of their educational experience. Join us for the CSforAll Networking Reception, hosted by AWS Educate from Amazon Web Services on Wednesday, March 8 from 6-8pm. During the event, you will learn more about the CSforAll Consortium, hear from our members during a panel session, and have the opportunity to meet and network with diverse stakeholders within the K-12 CS Education community. This event will be located within 10 minutes walking distance from SIGCSE 2017 conference. To attend, you must register and have an Eventbrite ticket.  Eventbrite Password is 'csforall'. Space is limited. PLEASE REGISTER BY FRIDAY, MARCH 3. 
+    
+    Hosted by AWS Educate from Amazon Web Services.
+  info: Send questions to Leigh Ann (Sudol/Jervis) DeLyser (leighann@csnyc.org)
+  # register: ""
+  organizers:
+    - name: Leigh Ann
+      email: leighann@csnyc.org
+
 - name: Breakfast with BlueJ and Greenfoot--Introducing Greenfoot 3, BlueJ 4, and Stride
   date: Friday, March 10, 7:00am-8:30am
   room: 6B
