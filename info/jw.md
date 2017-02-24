@@ -7,7 +7,7 @@ layout: default
 			style="float:right; margin-left: 20px;"
 			>
 
-# Jeannette Wing
+# Jeannette M. Wing
 
 Corporate Vice President
 <br>
