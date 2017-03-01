@@ -1,6 +1,6 @@
 - name: "POGIL in CS: Small Steps & Giant Leaps"
   date: Wednesday, March 8, 8:30am - 5:00pm
-  #room: "2503B"
+  room: 602
   cost: Free
   max: 20
   blurb: |
@@ -30,7 +30,7 @@
 
 - name: Managing the Early Academic Career for Women Faculty in Undergraduate Computing Programs
   date: Wednesday, March 8, 8:30am-5:00pm
-  #room: "2502B"
+  room: 606
   cost: Free
   max: 30
   blurb: |
@@ -53,20 +53,23 @@
     - name: Susan Rodger
       email: rodger@cs.duke.edu
 
-- name: Managing the Mid Academic Career for Women Faculty in Undergraduate Computing Programs
+- name: Managing the Early Academic Career for Women Graduate Students Pursuing Faculty Positions in Undergraduate Computing Programs
   date: Wednesday, March 8, 8:30am-5:00pm
-  #room: "2505A"
+  room: 607
   cost: Free
   max: 30
   blurb: |
     The goal of this workshop is to provide critical mentoring information and
-    advice for mid-career (i.e. associate professor) women in Computer Science
-    and Engineering who are interested in advancing their career. Topics
-    include leadership, promotion, managing up/down, mentoring, building
-    programs, leading initiatives, academic negotiation, effective teaching
-    and class management, with plenty of time for questions and discussion.
-    The day-long workshop, to be held on Wednesday, March 8, will be
-    co-located with the SIGCSE 2017 conference in Seattle.
+    advice for women graduate students (in their final year) in Computer Science
+    and Engineering who are interested in an academic career in an education
+    track. Topics Speakers for the event are experienced, senior faculty
+    members with extensive practical knowledge and mentoring involvement.
+    Topics include mentoring, research strategies, finding the right job,
+    networking strategies, using the classroom as your research study,
+    promotion and tenure strategies, and life balance in an academic research
+    environment, with plenty of time for questions and discussion. The day-long
+    workshop, to be held on Wednesday, March 8, will be co-located with the
+    SIGCSE 2017 conference in Seattle.
   info: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
   register: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
   organizers:
@@ -77,7 +80,7 @@
 
 - name: Strategies for Integrating Driverless Cars into the Computing Curricula
   date: Wednesday, March 8, 1:00pm-5:00pm
-  #room: "2505B"
+  room: 603
   cost: Free
   max: No Max
   blurb: |
@@ -108,7 +111,7 @@
 
 - name: Aligning to the ACM Cybersecurity-infused Computer Science Transfer Curriculum
   date: Wednesday, March 8, 1:30pm-5:00pm
-  #room: "2502A"
+  room: 612
   cost: Free
   max: No Max
   blurb: |
@@ -153,7 +156,7 @@
 
 - name: Making K-12 Computer Science Accessible
   date: Wednesday, March 8, 8:30am-5:00pm
-  #room: "2504A"
+  room: 604
   cost: Free
   max: "No Max"
   where: "TBD"
@@ -181,7 +184,7 @@
 
 - name: POSSE Roundup – Student Participation in Humanitarian Open Source Software
   date: Wednesday, March 8, 8:30pm-5:30pm
-  #room: "2503A"
+  room: 613-614
   cost: Free
   max: 30
   blurb: |
@@ -213,7 +216,7 @@
 
 - name: NSF UP CS Ed Research Event for Emerging CS Education Researchers at SIGCSE
   date: Wednesday, March 8, 1:30pm-5:00pm
-  #room: "2503B"
+  room: 611
   cost: Free
   max: 40
   blurb: |
@@ -247,7 +250,7 @@
 
 - name: Seeking Global, Industry and Training Provider Perspectives to Inform the ACM Joint Task Force for Cybersecurity Education
   date: Wednesday, March 8, 8:30am-5:00pm
-  #room:
+  room: 618-619
   cost: Free
   max: No Max
   blurb: |
@@ -298,7 +301,7 @@
 
 - name: Department Chairs Roundtable
   date: Wednesday, March 8, 8:30am-5:00pm
-  #room:
+  room: 616-617
   cost: $125
   max: No Max
   blurb: |
@@ -366,15 +369,18 @@
 
 - name: CSforAll Consortium Networking Reception at SIGCSE
   date: Wednesday, March 8, 6pm - 8pm
-  room: TBA
+  #room: TBA
   cost: Free
   max: 150
   blurb: |
-    The CSforAll Consortium (csforall.org) is a hub for the national Computer Science for All movement that works to enable all students in grades K-12 to achieve computer science literacy as an integral part of their educational experience. Join us for the CSforAll Networking Reception, hosted by AWS Educate from Amazon Web Services on Wednesday, March 8 from 6-8pm. During the event, you will learn more about the CSforAll Consortium, hear from our members during a panel session, and have the opportunity to meet and network with diverse stakeholders within the K-12 CS Education community. This event will be located within 10 minutes walking distance from SIGCSE 2017 conference. To attend, you must register and have an Eventbrite ticket.  Eventbrite Password is 'csforall'. Space is limited. PLEASE REGISTER BY FRIDAY, MARCH 3. 
-    
+    The CSforAll Consortium (csforall.org) is a hub for the national Computer Science for All movement that works to enable all students in grades K-12 to achieve computer science literacy as an integral part of their educational experience. Join us for the CSforAll Networking Reception, hosted by AWS Educate from Amazon Web Services on Wednesday, March 8 from 6-8pm. During the event, you will learn more about the CSforAll Consortium, hear from our members during a panel session, and have the opportunity to meet and network with diverse stakeholders within the K-12 CS Education community. This event will be located within 10 minutes walking distance from SIGCSE 2017 conference. To attend, you must register and have an Eventbrite ticket.  Eventbrite Password is 'csforall'. Space is limited. PLEASE REGISTER BY FRIDAY, MARCH 3.
+
     Hosted by AWS Educate from Amazon Web Services.
+
+    To attend, you must register at [https://www.eventbrite.com/e/csforall-consortium-networking-reception-hosted-by-aws-educate-registration-31897967680](https://www.eventbrite.com/e/csforall-consortium-networking-reception-hosted-by-aws-educate-registration-31897967680) and have an Eventbrite ticket.
+    Eventbrite Password is: **csforall**.
+    Space is limited. Please **register by Friday, March 3**.
   info: Send questions to Leigh Ann (Sudol/Jervis) DeLyser (leighann@csnyc.org)
-  # register: ""
   organizers:
     - name: Leigh Ann
       email: leighann@csnyc.org

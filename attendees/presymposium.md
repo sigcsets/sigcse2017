@@ -21,15 +21,8 @@ There are several exciting pre-symposium events this year; plan your travel so y
 
 ### {{event.name}}
 
-
-**Date/Time**: {{event.date}}
-
-{% if event.room %}
-**Where**: {{event.room}}
-{% endif %}
-
-**Cost**: {{event.cost}}
-
+**Date/Time**: {{event.date}} {% if event.room %} <br/> **Room**: {{event.room}} {% endif %} <br/>
+**Cost**: {{event.cost}} <br/>
 **Max Participants**: {{event.max}}
 
 {{event.blurb}}
