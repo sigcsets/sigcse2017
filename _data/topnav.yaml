@@ -1,5 +1,8 @@
 - name: For Authors
   subheads:
+  - name: Best and Exemplary Papers
+    link: /docs/sigcse2017-best-paper-and-exemplary-paper-awards.pdf
+    divider: true
   - name: Call for Participation
     link: /info/cfp.html
   - name: Important Dates
@@ -26,6 +29,9 @@
     link: /authors/demos.html
   - name: Affiliated Events
     link: /authors/pre-symposiumandaffiliatedevents.html
+    divider: true
+  - name: 2018 Call for Participation
+    link: /docs/sigcse2017-program.pdf
 - name: For Reviewers
   subheads:
     - name: Review Process
@@ -53,8 +59,10 @@
       divider: true
     - name: Online Program
       link: http://easychair.org/smart-program/SIGCSE2017/
-    - name: Draft Program (PDF)
-      link: /docs/sigcse2017-draft-program.pdf
+    - name: Final Program (PDF)
+      link: /docs/sigcse2017-program.pdf
+    - name: Best and Exemplary Papers
+      link: /docs/sigcse2017-best-paper-and-exemplary-paper-awards.pdf
     - name: Pre-Symposium Events
       link: /attendees/presymposium.html
     - name: Supporter Sessions
