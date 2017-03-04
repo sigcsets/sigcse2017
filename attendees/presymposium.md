@@ -27,11 +27,15 @@ There are several exciting pre-symposium events this year; plan your travel so y
 
 {{event.blurb}}
 
-{% if event.info != "" %}
+{% if event.info %}
+  {% if event.info contains "http" %}
 **For additional information**: <a href="{{event.info}}">{{event.info}}</a>
+  {% else %}
+**For additional information**: {{event.info}}
+  {% endif %}
 {% endif %}
 
-{% if event.register != "" %}
+{% if event.register %}
   {% if event.register contains "http" %}
 **To register for this event**: <a href="{{event.register}}">{{event.register}}</a>
   {% else %}

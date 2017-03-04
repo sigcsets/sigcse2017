@@ -418,3 +418,17 @@
       email: nccb@kent.ac.uk
     - name: Ian Utting
       email: iau@kent.ac.uk
+
+- name: CRA Teaching Track Faculty Lunch
+  date: Friday, March 10, 12:00pm-1:45pm
+  room: 6B
+  cost: Free
+  max: 120
+  blurb: |
+    Learn about planned CRA initiatives to support teaching faculty at research
+    universities and contribute your input.
+  info: For more information, contact Penny Rheingans (rheingan@cs.umbc.edu).
+  register: https://goo.gl/forms/Wtyxw1RO28wQ6sT22
+  organizers:
+    - name: Penny Rheingans
+      email: rheingan@cs.umbc.edu
