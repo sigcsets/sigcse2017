@@ -362,6 +362,7 @@ You may enjoy <a href="http://m.soundtransit.org/sites/default/files/documents/p
   <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/Bus-Shuttle-Courtesy.aspx">Several companies</a> offer shared van shuttle service for around $20 including <a href="https://shuttleexpress.com/seattle/airport/downtown-airporter/">Shuttle Express Downtown Airporter</a> and <a href="http://www.speedishuttleseattle.com/">Speedi Shuttle</a>.
 </p>
 
+<h4>Rideshares</h4>
 <p>
   <a href="https://www.lyft.com/cities/seattle">Lyft</a>, <a href="https://www.uber.com/airports/sea-tac/">Uber</a> and <a href="https://www.wingz.me/airport/sea/">Wingz</a> provide services at Sea-Tac Airport.  The pickup area can be found here. 
 </p>
