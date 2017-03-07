@@ -30,6 +30,9 @@
   - name: Affiliated Events
     link: /authors/pre-symposiumandaffiliatedevents.html
     divider: true
+  - name: Conference Proceedings
+    link: http://dl.acm.org/citation.cfm?id=3017680
+    divider: true
   - name: 2018 Call for Participation
     link: /docs/sigcse2017-program.pdf
 - name: For Reviewers
@@ -80,6 +83,9 @@
       link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:12962
     - name: Lightning Talks
       link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:12951
+      divider: true
+    - name: Conference Proceedings
+      link: http://dl.acm.org/citation.cfm?id=3017680
       divider: true
     - name: Kids' Camp
       link: /attendees/kidscamp.html
