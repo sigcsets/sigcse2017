@@ -364,7 +364,7 @@ You may enjoy <a href="http://m.soundtransit.org/sites/default/files/documents/p
 
 <h4>Rideshares</h4>
 <p>
-  <a href="https://www.lyft.com/cities/seattle">Lyft</a>, <a href="https://www.uber.com/airports/sea-tac/">Uber</a> and <a href="https://www.wingz.me/airport/sea/">Wingz</a> provide services at Sea-Tac Airport.  The pickup area can be found here. 
+  <a href="https://www.lyft.com/cities/seattle">Lyft</a>, <a href="https://www.uber.com/airports/sea-tac/">Uber</a> and <a href="https://www.wingz.me/airport/sea/">Wingz</a> provide services at Sea-Tac Airport.  The <a href="http://www.portseattle.org/Sea-Tac/Parking-and-Transportation/Ground-Transportation/Pages/tnc.aspx">pickup area can be found here</a>. 
 </p>
 
 <h4>Note</h4>
